@@ -2,13 +2,13 @@
 
 <figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption><p>\</p></figcaption></figure>
 
-### What should I do on PancakeSwap on other blockchains?
+### What should I do on ZexdexApp on other blockchains?
 
-Provide liquidity, trade and farm as you always have been. If you are a multichain user already, remember to provide liquidity on PancakeSwap on other blockchains that we've deployed on (like Ethereum), as we have CAKE rewards on BNB Smart Chain for you, allowing you to earn even more CAKE without bridging those assets over!
+Provide liquidity, trade and farm as you always have been. If you are a multichain user already, remember to provide liquidity on ZexdexApp on other blockchains that we've deployed on (like Ethereum), as we have CAKE rewards on BNB Smart Chain for you, allowing you to earn even more CAKE without bridging those assets over!
 
 ### **Will there be more pairs?**
 
-Yes, but we will be deploying in steps to ensure we prioritize the safety of user funds and CAKE inflation. Do let us know in the community chats what you think should be added to PancakeSwap on other blockchains, as well as what other blockchains we should deploy PancakeSwap on.
+Yes, but we will be deploying in steps to ensure we prioritize the safety of user funds and CAKE inflation. Do let us know in the community chats what you think should be added to ZexdexApp on other blockchains, as well as what other blockchains we should deploy ZexdexApp on.
 
 ### **Why the gas cost for staking LP tokens is high?**
 
@@ -75,9 +75,9 @@ You may find the variables in the formula with in the message bus contract:
 
 This is not strictly a "fee".&#x20;
 
-For every new user who started doing PancakeSwap cross-chain farming. In the first “stake” transaction, we will deposit 0.005 BNB into their BNB Chain wallet. The corresponding amount of native tokens on the farming chain (like ETH on Ethereum) will be charged from the deposit transaction, using the market rate provided by the price oracle.
+For every new user who started doing ZexdexApp cross-chain farming. In the first “stake” transaction, we will deposit 0.005 BNB into their BNB Chain wallet. The corresponding amount of native tokens on the farming chain (like ETH on Ethereum) will be charged from the deposit transaction, using the market rate provided by the price oracle.
 
-This is to help users start their BNB Chain journey with ease. We understand the painfulness of having all the harvested CAKE but not being able to explore the vivid PancakeSwap ecosystem without finding another way to acquire BNB for gas.
+This is to help users start their BNB Chain journey with ease. We understand the painfulness of having all the harvested CAKE but not being able to explore the vivid ZexdexApp ecosystem without finding another way to acquire BNB for gas.
 
 This fee only charges once upon the first "stake" transaction.
 
@@ -99,7 +99,7 @@ Here is the emissions breakdown:
 
 ### What happened during the deposit, harvest and withdrawal?
 
-PancakeSwap crosschain farming is like using a "stand-in" LP token to farm on the BNB Chain, with the same PancakeSwap MasterChef. The CAKE rewards are calculated and distributed on BNB Chain, controlled and guarded by the same MasterChef contract.
+ZexdexApp crosschain farming is like using a "stand-in" LP token to farm on the BNB Chain, with the same ZexdexApp MasterChef. The CAKE rewards are calculated and distributed on BNB Chain, controlled and guarded by the same MasterChef contract.
 
 #### Upon Deposit:
 

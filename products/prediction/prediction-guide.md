@@ -2,17 +2,17 @@
 
 ![](../../.gitbook/assets/how-to-porediction-header.png)
 
-Playing PancakeSwap’s Prediction lets you test your foresight to earn rewards. Use your market knowledge or gut feeling to predict if the BNBUSD or CAKEUSD price will go up or down in the near future. Get it right and you’ll collect a share of the round’s prize pool!
+Playing ZexdexApp’s Prediction lets you test your foresight to earn rewards. Use your market knowledge or gut feeling to predict if the BNBUSD or CAKEUSD price will go up or down in the near future. Get it right and you’ll collect a share of the round’s prize pool!
 
 {% hint style="warning" %}
-PancakeSwap’s Prediction is a new product that we still consider to be in beta. We may make changes in the future to improve Prediction. As always, the PancakeSwap team will inform users of any changes that will impact how the product works.
+ZexdexApp’s Prediction is a new product that we still consider to be in beta. We may make changes in the future to improve Prediction. As always, the ZexdexApp team will inform users of any changes that will impact how the product works.
 {% endhint %}
 
 ## Accepting terms of the beta
 
 Before you can use Prediction, you’ll need to review and accept the terms.
 
-Visit the [PancakeSwap Prediction page](https://pancakeswap.finance/prediction). You will see a “Welcome!” window explaining that the Prediction product is still in beta.
+Visit the [ZexdexApp Prediction page](https://zexdex.app/prediction). You will see a “Welcome!” window explaining that the Prediction product is still in beta.
 
 ![](../../.gitbook/assets/1-how-to-use-predictions.png)
 
@@ -20,9 +20,9 @@ Read and accept the conditions then click **Continue**.
 
 ## Switch between two prediction markets
 
-![](<../../.gitbook/assets/MBP4-2022.06.27-114859-Google Chrome-Prediction  PancakeSwap - $3.405.gif>)
+![](<../../.gitbook/assets/MBP4-2022.06.27-114859-Google Chrome-Prediction  ZexdexApp - $3.405.gif>)
 
-PancakeSwap offers two separate prediction markets for every player to choose from. You can play based on the CAKE USD price, betting with CAKE. Alternatively, you can play based on BNB USD price, betting with BNB.
+ZexdexApp offers two separate prediction markets for every player to choose from. You can play based on the CAKE USD price, betting with CAKE. Alternatively, you can play based on BNB USD price, betting with BNB.
 
 To switch between two prediction markets, simply click or tap the currency switcher on the top left corner.
 
@@ -124,7 +124,7 @@ Your token winnings will now be in your wallet.
 
 ### Collecting winnings from older rounds
 
-Sometimes you may be away from PancakeSwap's Prediction page for a while or may have forgotten to collect winnings from older rounds. You can still collect winnings owed to you from older rounds at any time.
+Sometimes you may be away from ZexdexApp's Prediction page for a while or may have forgotten to collect winnings from older rounds. You can still collect winnings owed to you from older rounds at any time.
 
 1\. Find more information on past rounds you've entered by clicking on the **reversing clock icon** next to the round timer.
 

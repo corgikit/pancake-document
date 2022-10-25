@@ -2,15 +2,15 @@
 
 <figure><img src="../../.gitbook/assets/docs masthead.png" alt=""><figcaption></figcaption></figure>
 
-StableSwap on PancakeSwap is a feature to trade stable pairs with a lower slippage based on an invariant curve slippage function. It is designed to swap specific assets that are priced closely – such as USD stablecoins (e.g. HAY, BUSD and USDT) or liquid staking tokens (e.g. stkBNB and aBNBc).
+StableSwap on ZexdexApp is a feature to trade stable pairs with a lower slippage based on an invariant curve slippage function. It is designed to swap specific assets that are priced closely – such as USD stablecoins (e.g. HAY, BUSD and USDT) or liquid staking tokens (e.g. stkBNB and aBNBc).
 
-The StableSwap is an implementation of Curve Finance’s AMM on PancakeSwap. It adds linear invariant constant sum curve (x+y=k) on top of the constant product formula (x\*y=k) to keep prices more equal as long as the liquidity pool is not extremely unbalanced. As a result, since StableSwaps are restricted to similarly priced assets, impermanent loss is not as much of a concern (except in extreme depeg cases) and the slippage is lower than normal AMM which just uses the constant product formula.
+The StableSwap is an implementation of Curve Finance’s AMM on ZexdexApp. It adds linear invariant constant sum curve (x+y=k) on top of the constant product formula (x\*y=k) to keep prices more equal as long as the liquidity pool is not extremely unbalanced. As a result, since StableSwaps are restricted to similarly priced assets, impermanent loss is not as much of a concern (except in extreme depeg cases) and the slippage is lower than normal AMM which just uses the constant product formula.
 
-When you make a token swap (trade) on the StableSwap you will pay a fee of 0.04% trading fees, which is lower than the usual 0.25% on normal PancakeSwap AMM. The fee attribution is broken down as follows
+When you make a token swap (trade) on the StableSwap you will pay a fee of 0.04% trading fees, which is lower than the usual 0.25% on normal ZexdexApp AMM. The fee attribution is broken down as follows
 
 * 0.02% to the LP as rewards (50%)
 * 0.016% to CAKE buyback and burn (40%)
-* 0.004% to the PancakeSwap Treasury (10%)
+* 0.004% to the ZexdexApp Treasury (10%)
 
 At launch, the Kitchen will be rolling out StableSwap pairs gradually to test and improve the product further. The first pair to be launched will be **HAY-BUSD**.
 

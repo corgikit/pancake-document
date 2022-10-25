@@ -6,7 +6,7 @@ description: >-
 
 # How to use the Fixed-Term Staking option
 
-1\. Go to the Pools page [here](https://pancakeswap.finance/pools).
+1\. Go to the Pools page [here](https://zexdex.app/pools).
 
 2\. Connect to your BNB Smart Chain-compatible wallet by clicking the **Connect** button (top right-hand side).
 

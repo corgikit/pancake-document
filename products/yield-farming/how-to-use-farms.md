@@ -1,12 +1,12 @@
 ---
-description: Yield Farming on PancakeSwap is easy!
+description: Yield Farming on ZexdexApp is easy!
 ---
 
 # How to Use Farms
 
 ![](../../.gitbook/assets/how-to-yield-farms-header.png)
 
-Yield Farming in Farms is a great way to earn CAKE rewards on PancakeSwap.
+Yield Farming in Farms is a great way to earn CAKE rewards on ZexdexApp.
 
 Unlike Syrup Pools, Farms require you to stake **two tokens** to get LP Tokens, which you then stake in the Farm to earn rewards. This lets you earn CAKE while still keeping a position in your other tokens!
 
@@ -28,7 +28,7 @@ It may sound intimidating, but it's not too complicated. Let's go through step b
 
 ### Finding your Farm
 
-Before you proceed, you'll want to choose a Farm that's right for you. [Visit the Farms page](https://pancakeswap.finance/farms) and you’ll see a list of available Farms.
+Before you proceed, you'll want to choose a Farm that's right for you. [Visit the Farms page](https://zexdex.app/farms) and you’ll see a list of available Farms.
 
 ![](<../../.gitbook/assets/image (1).png>)
 
@@ -51,7 +51,7 @@ Now that you have your LP Tokens, you’re ready to start staking them in a Farm
 
 ### Putting your LP Tokens into the Farm
 
-1 - Go back to the [Farms page](https://pancakeswap.finance/farms) and locate your Farm. Click anywhere on the row showing your pair. It will expand to show more details.
+1 - Go back to the [Farms page](https://zexdex.app/farms) and locate your Farm. Click anywhere on the row showing your pair. It will expand to show more details.
 
 ![](<../../.gitbook/assets/image (6).png>)
 
@@ -87,7 +87,7 @@ When you are farming on a different blockchain other than the BNB chain for the 
 
 You may decide you would like to add more LP Tokens to a Farm at a later date, or to take some out of a Farm. You can do this very easily whenever you'd like.
 
-1. Return to the [Yield Farms page](https://pancakeswap.finance/farms). At the top of the page you'll see a **Staked only** toggle. Click the toggle.
+1. Return to the [Yield Farms page](https://zexdex.app/farms). At the top of the page you'll see a **Staked only** toggle. Click the toggle.
 
 ![](<../../.gitbook/assets/image (34).png>)
 
@@ -114,7 +114,7 @@ You can harvest your Farm and Syrup Pool rewards together from the Home page. If
 
 To collect your rewards, you’ll need to visit your chosen Farm and collect the CAKE waiting for you.
 
-1 - Return to the Farms page [here](https://pancakeswap.finance/farms).
+1 - Return to the Farms page [here](https://zexdex.app/farms).
 
 2 - Find the Farm you staked your LP Tokens in, and click the row to view details. You should see an estimate of your rewards under “CAKE earned”.
 
@@ -140,6 +140,6 @@ You can see this fee in your wallet when confirming after clicking **Harvest**.
 
 This shows the fee for harvesting as it appears in the MetaMask wallet. Different wallets will show the information a little differently. Consider leaving your rewards to grow for a while so you pay fees less often.
 
-And that's all there is to it! You may also want to look at [how to use PancakeSwap Syrup Pools](https://docs.pancakeswap.finance/get-started/syrup-pool-guide) to earn rewards.
+And that's all there is to it! You may also want to look at [how to use ZexdexApp Syrup Pools](https://docs.zexdex.app/get-started/syrup-pool-guide) to earn rewards.
 
 Happy farming!

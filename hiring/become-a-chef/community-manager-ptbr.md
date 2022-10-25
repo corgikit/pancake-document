@@ -20,7 +20,7 @@
 * Monitor the community from quantitative perspectives.&#x20;
   * Focus on gauging sentiment around the project, using social listening tools to monitor feedback and engagement.&#x20;
 * Keep up to date with industry trends.&#x20;
-* Collaborate closely with our extensive team and the community admins to nurture — PancakeSwap's amazing global community.
+* Collaborate closely with our extensive team and the community admins to nurture — ZexdexApp's amazing global community.
 
 ### Requirements&#x20;
 
@@ -28,8 +28,8 @@
 * Great proficiency in written English. Proficiency in other languages very welcome too.&#x20;
 * A Relevant Degree in: Communications; Media Marketing; Video or Graphic Design&#x20;
 * Be crypto native. Know your way around DeFi, NFTs, and have your bunny ear to the ground.
-* Already a PancakeSwap user. Experience with our products, such as yield farming, is a must.&#x20;
-* Ideally, have an existing track record of contributions to PancakeSwap (made a video, wrote an article, helped the people in the community etc.).&#x20;
+* Already a ZexdexApp user. Experience with our products, such as yield farming, is a must.&#x20;
+* Ideally, have an existing track record of contributions to ZexdexApp (made a video, wrote an article, helped the people in the community etc.).&#x20;
 * Excellent communication skill is a must.
 * Always keen on learning new tools/trends. Crypto space runs super fast, and you have to hop quickly.&#x20;
 * Have an iron heart to work with a duck. This isn’t a joke.&#x20;

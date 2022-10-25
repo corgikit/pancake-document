@@ -6,9 +6,9 @@ description: Fixed-Term CAKE Staking and IFO Allocations
 
 ### **What is iCAKE?**
 
-iCAKE is similar to “IFO credits” from the previous IFO CAKE staking pool, which was retired during the MasterChef v2 migration. After this update, iCAKE will determine the maximum CAKE commit limit in the PancakeSwap IFO public sales. For example, if you have 200 iCAKE, you will be able to commit 200 CAKE in any upcoming IFO public sales.
+iCAKE is similar to “IFO credits” from the previous IFO CAKE staking pool, which was retired during the MasterChef v2 migration. After this update, iCAKE will determine the maximum CAKE commit limit in the ZexdexApp IFO public sales. For example, if you have 200 iCAKE, you will be able to commit 200 CAKE in any upcoming IFO public sales.
 
-**iCAKE is NOT a new token, it is a numerical metric being used by the PancakeSwap IFO system.**
+**iCAKE is NOT a new token, it is a numerical metric being used by the ZexdexApp IFO system.**
 
 ### How is iCAKE calculated?
 
@@ -37,7 +37,7 @@ For example, if the threshold is 20 weeks:&#x20;
 
 ![](../../.gitbook/assets/image3.png)
 
-You can check the number of iCAKE you have in the IFO page [here](https://pancakeswap.finance/ifo).
+You can check the number of iCAKE you have in the IFO page [here](https://zexdex.app/ifo).
 
 ### **How to increase the number of iCAKE I have?**
 

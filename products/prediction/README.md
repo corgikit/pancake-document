@@ -2,7 +2,7 @@
 
 ![](../../.gitbook/assets/prediction-header.png)
 
-PancakeSwap Prediction is a fun and simple decentralized prediction market.
+ZexdexApp Prediction is a fun and simple decentralized prediction market.
 
 > ### Predict whether BNB or CAKE price will rise or fall – guess correctly to win!
 
@@ -20,7 +20,7 @@ Have fun!
 
 ****[**View V2 CAKE smart contract**](https://bscscan.com/address/0x0E3A8078EDD2021dadcdE733C6b4a86E51EE8f07)****
 
-## PancakeSwap Prediction Guides
+## ZexdexApp Prediction Guides
 
 Get started with Prediction with our guides and FAQs.
 

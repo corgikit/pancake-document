@@ -118,7 +118,7 @@ Learn more about how the multiplier is calculated [here](faq.md#how-are-the-bcak
 
 ### Why only CAKE/BUSD? Why only 1 farm?
 
-Since bCAKE involves updating one of PancakeSwap's core products, which is liquidity farming. Chefs want to take a slower and more steady approach to the launch.&#x20;
+Since bCAKE involves updating one of ZexdexApp's core products, which is liquidity farming. Chefs want to take a slower and more steady approach to the launch.&#x20;
 
 Therefore, in the initial product release phase. Many of the parameters are very conservative. Including the number of farms users can boost, which farm users can boost, as well as the difficulty parameter in receiving the boost multiplier.
 
@@ -128,5 +128,5 @@ After the initial release phase, Chefs will adjust the parameters based on the c
 
 bCAKE has been audited by both internal and external auditors.&#x20;
 
-Check out PeckSheild's audit report [here](https://github.com/peckshield/publications/tree/master/audit\_reports/PeckShield-Audit-Report-PancakeSwap-FarmBooster-v1.0.pdf).
+Check out PeckSheild's audit report [here](https://github.com/peckshield/publications/tree/master/audit\_reports/PeckShield-Audit-Report-ZexdexApp-FarmBooster-v1.0.pdf).
 

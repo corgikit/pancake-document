@@ -1,92 +1,78 @@
-# PancakeSwap Intro
+# Overview of ZexdexApp Products
 
-![](.gitbook/assets/intro-header.png)
+![](.gitbook/images/intro-header.png)
 
 {% hint style="success" %}
-**PancakeSwap helps you make the most out of your crypto in three ways:**
+**ZexdexApp is a crypto services platform, a decentralized exchange, and a decentralized launchpad that allows users to launch their tokens and generate their token sales.**
+**ZexdexApp helps you make the most out of your crypto in three ways:**
 
-**Trade, Earn, and Win.**
+**Safe-Lock, Multi-Swap, and Win-Win.**
 {% endhint %}
 
-## ↔️ Trade
+## 🔓 Safe-Lock
 
-> Instantly swap crypto tokens: no registration or account needed.
+> Freely lock-unlock your crypto asset directly from your wallet and win trading-fee from zexdex.
 
 ### The people's choice
 
-PancakeSwap is the leading decentralized exchange on BNB Smart Chain, with the highest trading volumes in the market (sources: [1](https://www.coingecko.com/en/exchanges/decentralized) [2](https://coinmarketcap.com/rankings/exchanges/dex/)).
+On Binance Smart Chain, ZexdexApp is the top decentralized exchange with the biggest trading volumes. (sources: [1](https://www.coingecko.com/en/exchanges/decentralized) [2](https://coinmarketcap.com/rankings/exchanges/dex/)).
 
 ### Low fees
 
-Why pay more? PancakeSwap runs on BNB Smart Chain, a blockchain with much lower transaction costs than Ethereum or Bitcoin.\
-Trading fees are lower than other top decentralized exchanges too, so that's a double win for you!
+Why would you want to spend more? The blockchain used by ZexdexApp, Binance Smart Chain, has substantially less transaction fees than Ethereum or Bitcoin.\
+You win twice because the trading fees are lower than those charged by other leading decentralized exchanges.
 
 ### Decentralized
 
 Trade directly from your wallet app.\
-Unlike centralized exchanges like Binance or Coinbase, PancakeSwap doesn’t hold your funds when you trade: **you have 100% ownership of your own crypto**.
+Users can conduct transactions without registering and directly from their wallets. As opposed to centralized exchanges, your coins are not kept by Zexdex when you trade. **You have 100% ownership of your own crypto**.
 
-## 💸 Earn
+## 🛸 Multi-Swap
 
-> Earn CAKE and other tokens for free with super high interest rates.
+> Earn free zDEX and other tokens with astronomically high rates of interest.
 
-### Earn tokens with Syrup Pools
+### Multi Collateral Liquidity Pools
 
-Stake CAKE, earn free tokens. It’s really that easy.\
-CAKE holders right now are earning tens of millions of USD worth of free tokens each week from major projects. New projects join the party frequently, so you can earn more, for even longer.
+What would be the best attributes a liquidity pool might have, if we could list them?
+Multiple collateral types and transient loss mitigation are undoubtedly at the top of the list. But what if we could also include private pools?
+For AMMs, ZexdexApp is a game-changing innovation that opens the door to huge liquidity and multi-collateral trading.
 
-### Earn CAKE with Yield Farms
+### Liquidity Providers are King
 
-Stake LP tokens, earn CAKE. You take on a little more exposure to market fluctuations than with the Syrup Pools, but can earn higher APR to offset the risk.
+The monarchs of ZexdexApp are LPs. We believe that the present DeFi protocols do not adequately compensate LPs for their risk. In particular for farming apps. Farms are funded by Liquidity Providers (LPs), and LPs can (and frequently do) lose money if they aren't nimble enough.
+Multi-collateral ZexdexApp pools significantly lower the risks for LPs in all circumstances.
+The most LP-friendly AMM currently in use is ZexdexApp.
 
 ### Earn Trading Fees
 
-No farm? No problem. Even if your trading pair isn’t supported on the Farms page, you can still earn trading fees when you stake your tokens in Liquidity Pools (LPs).
+No farms? No issue. You can still make trading fees by staking your tokens in Liquidity Pools (LPs) even if your trading pair isn't offered on the Farms page.
 
-## 🎲 Win
+## 🎲 Win-Win
 
-> PancakeSwap makes making money fun.
+> ZexdexApp makes making money fun.
 
-### Lottery
+### Zexdex Launchpad
 
-**Millions of dollars** regularly go up for grabs on the PancakeSwap Lottery.\
-Join as many as **11,000 daily players** for your chance to win big!
+**Dozens of Projects** often available on the Zexdex Launchpad.\
+Join as many as **100 monthly projects** for your chance to to increase your investment!
 
-### NFT Collectibles
+### Zexdex NFT Marketplaces
 
-Win collectible NFTs for participating in trading competitions and more fun & games.
+Just upload your work, create it to make it unique, and start monetizing whenever someone buys it.
 
-### Prediction
+### OTC Trading
 
-Win BNB if you can predict whether the BNB price will rise or fall.\
-New rounds every 5 minutes!
+Deals are facilitated by third-party stock exchanges by mediating price negotiations between buyers and sellers.
 
-### Pottery
+### Zexdex Staking
 
-Win a bigger yield on your CAKE deposit, a combination of CAKE lock-staking and lottery!
+A significant possibility to win double benefits, including a discount on our service fee and a profit/revenue share from the Zexdex Launchpad projects you have selected.
 
-## Is PancakeSwap safe?
+## Is ZexdexApp safe?
 
 See for yourself:
 
-* Check out these PancakeSwap security audits:
-  * [Certik’s security audit of PancakeSwap](https://www.certik.org/projects/pancakeswap) and [Certik's Shield insurance](https://shield.certik.foundation)
-  * [Slowmist's security audit of PancakeSwap](https://github.com/slowmist/Knowledge-Base/blob/master/open-report/Smart%20Contract%20Security%20Audit%20Report%20%20-%20PancakeSwap.pdf)
-  * [Slowmist's Auto-CAKE Pool security audit](https://github.com/slowmist/Knowledge-Base/blob/master/open-report/Smart%20Contract%20Security%20Audit%20Report%20-%20CakeVault.pdf)
-  * [Peckshield's Prediction V2 security audit](https://github.com/peckshield/publications/blob/master/audit\_reports/PeckShield-Audit-Report-PancakeSwap-PredictionV2-v1.0.pdf)
-  * [Pecksheild's New CAKE Pool security audit](https://github.com/peckshield/publications/tree/master/audit\_reports/PeckShield-Audit-Report-PancakeSwap-CakePool-v1.0.pdf)
-  * [SlowMist's New CAKE Pool security audit](https://github.com/slowmist/Knowledge-Base/blob/master/open-report-V2/smart-contract/SlowMist%20Audit%20Report%20-%20Pancakeswap-CakePool\_en-us.pdf)
-  * [Pecksheild's New MasterChef security audit](https://github.com/peckshield/publications/tree/master/audit\_reports/PeckShield-Audit-Report-PancakeSwap-MasterChefV2-v1.0.pdf)
-  * [SlowMist's New MasterChef security audit](https://github.com/slowmist/Knowledge-Base/blob/master/open-report-V2/smart-contract/SlowMist%20Audit%20Report%20-%20MasterChef%20v2\_en-us.pdf)
-  * [Pecksheild's Farm Booster security audit](https://github.com/peckshield/publications/tree/master/audit\_reports/PeckShield-Audit-Report-PancakeSwap-FarmBooster-v1.0.pdf)
-* Transparent:
-  * We’re built on open-source software: our site and all our Smart Contracts are publicly visible for maximum transparency.
-  * Our contracts are verified on BscScan so you know that what you see is what you get: [1](https://bscscan.com/address/0x10ED43C718714eb63d5aA57B78B54704E256024E) [2](https://bscscan.com/address/0x73feaa1ee314f8c655e354234017be2193c9e24e#code) [3](https://bscscan.com/address/0xbcfccbde45ce874adcb698cc183debcf17952812) [4](https://bscscan.com/address/0x1b96b92314c44b159149f7e0303511fb2fc4774f#code) [5](https://bscscan.com/address/0x92E8CeB7eAeD69fB6E4d9dA43F605D2610214E68)
-* Security best practices:
-  * The chefs use multisig for all contracts.
-  * Our contracts’ time-locks give you peace of mind.
-
 **Sounds like fun?**\
-**Then get flipping!** 🐰 🥞
+**Then get a try!** 🐰 🥞
 
-***
+---

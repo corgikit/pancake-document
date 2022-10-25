@@ -39,7 +39,7 @@ The burning process is currently manual. [View burn transactions here](https://b
 
 As well as the above, CAKE is also burned in the following ways:
 
-* **0.05%** of every trade made on PancakeSwap V2
+* **0.05%** of every trade made on ZexdexApp V2
 * **100%** of CAKE sent to the Dev address
 * **100%** of CAKE performance fees from IFOs
 * **100%** of CAKE spent on Profile Creation and NFT minting
@@ -52,7 +52,7 @@ As well as the above, CAKE is also burned in the following ways:
 
 ## Why is the CAKE burn manual?
 
-To hit the ground running, PancakeSwap launched as an MVP (minimum viable product) with the MasterChef contract emitting 40 CAKE per block. For that reason, the early team didn't add additional functions such as the ability to customize the CAKE minting logic. As migrating to a new MasterChef would require a lot of time and effort, the team opted to reduce CAKE emissions instead through a manual burn process by creating two pools:
+To hit the ground running, ZexdexApp launched as an MVP (minimum viable product) with the MasterChef contract emitting 40 CAKE per block. For that reason, the early team didn't add additional functions such as the ability to customize the CAKE minting logic. As migrating to a new MasterChef would require a lot of time and effort, the team opted to reduce CAKE emissions instead through a manual burn process by creating two pools:
 
 * Legacy Lottery Pool (PID - 137) - burned CAKE from the lottery
 * Burn Pool (PID - 138) - burned CAKE per block
@@ -71,7 +71,7 @@ The CAKE sent to both pools PID-137 and PID-138 are harvested before completing 
 
 ## How to Confirm CAKE Supply for yourself
 
-To confirm that the circulating CAKE supply shown on the PancakeSwap homepage is correct,&#x20;
+To confirm that the circulating CAKE supply shown on the ZexdexApp homepage is correct,&#x20;
 
 1. Head to the CAKE token contract on BscScan and [see how much CAKE is held by the Burn Address.](https://bscscan.com/token/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82#balances) That's the total amount of CAKE that's been burned (removed from circulation FOREVER, and impossible to ever retrieve).
 2. Then, subtract this burned amount from the "Total Supply" that BscScan shows.

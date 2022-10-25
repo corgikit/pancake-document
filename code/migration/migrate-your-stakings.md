@@ -1,5 +1,5 @@
 ---
-description: Migrate your farms and pools staking to the new PancakeSwap MasterChef
+description: Migrate your farms and pools staking to the new ZexdexApp MasterChef
 ---
 
 # Migrate Your Stakings
@@ -13,8 +13,8 @@ In order to keep earning staking rewards, you will need to migrate your farms an
 
 You need to migrate if you are:
 
-* Farming on PancakeSwap **Farms**.
-* Staking in PancakeSwap **CAKE Syrup Pools** (Manual, Auto, IFO).
+* Farming on ZexdexApp **Farms**.
+* Staking in ZexdexApp **CAKE Syrup Pools** (Manual, Auto, IFO).
 
 \*other Syrup Pools aren’t affected
 {% endhint %}
@@ -25,7 +25,7 @@ You need to migrate if you are:
 
 ### 1. Navigate to the migration helper
 
-Go to [https://pancakeswap.finance/migration](https://pancakeswap.finance/migration), and connect your wallet.
+Go to [https://zexdex.app/migration](https://zexdex.app/migration), and connect your wallet.
 
 ### 2. Unstake from the old farms
 
@@ -81,19 +81,19 @@ For farms, please:
 
 ![](../../.gitbook/assets/migration-helper-steps-guide-9.png)
 
-You are now staking in the new MasterChef and continue earning CAKE rewards! Click "**Finish**" to go back and explore some other great products PancakeSwap offers.
+You are now staking in the new MasterChef and continue earning CAKE rewards! Click "**Finish**" to go back and explore some other great products ZexdexApp offers.
 
 ## Migration Timeline
 
 ![](<../../.gitbook/assets/en - migration timeline - 2.png>)
 
-Make sure to follow our [Twitter](https://twitter.com/pancakeswap/) or [Telegram](https://t.me/PancakeSwapAnn) announcement channel for detailed timing and the latest updates! Need any help? Learn more about how to reach for help [here](../../contact-us/#help).
+Make sure to follow our [Twitter](https://twitter.com/pancakeswap/) or [Telegram](https://t.me/ZexdexAppAnn) announcement channel for detailed timing and the latest updates! Need any help? Learn more about how to reach for help [here](../../contact-us/#help).
 
 ## FAQ
 
 #### **When will it finish?**
 
-Migration will take several hours, but it should be totally finished upon the launch of the migration helper page. Follow our [Twitter](https://twitter.com/pancakeswap/) or [Telegram](https://t.me/PancakeSwapAnn) announcement channel for the latest updates!
+Migration will take several hours, but it should be totally finished upon the launch of the migration helper page. Follow our [Twitter](https://twitter.com/pancakeswap/) or [Telegram](https://t.me/ZexdexAppAnn) announcement channel for the latest updates!
 
 #### **When must I migrate?**
 
@@ -102,7 +102,7 @@ Migration will take several hours, but it should be totally finished upon the la
 
 #### I don’t see the migration helper!
 
-It will only be deployed once smart contract deployments and configurations are completed. It could take serval hours. Follow our [Twitter](https://twitter.com/pancakeswap/) or [Telegram](https://t.me/PancakeSwapAnn) announcement channel for the latest updates!
+It will only be deployed once smart contract deployments and configurations are completed. It could take serval hours. Follow our [Twitter](https://twitter.com/pancakeswap/) or [Telegram](https://t.me/ZexdexAppAnn) announcement channel for the latest updates!
 
 #### Why lock staking is not available?
 

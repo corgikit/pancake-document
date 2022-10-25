@@ -33,7 +33,7 @@ You're trying to swap tokens, but your slippage tolerance is too low or liquidit
 
 That means there isn't enough of one of the tokens you're trying to swap in the Liquidity Pool: it's probably a small-cap token that few people are trading.
 
-However, there's also the chance that you're trying to trade a scam token which cannot be sold. In this case, PancakeSwap isn't able to block a token or return funds.
+However, there's also the chance that you're trying to trade a scam token which cannot be sold. In this case, ZexdexApp isn't able to block a token or return funds.
 {% endtab %}
 {% endtabs %}
 
@@ -70,7 +70,7 @@ It might be the case that prices are updating too fast when and your slippage to
 {% tab title="Solution for nerds" %}
 OK, so you're really determined to fix this. We really don't recommend doing this unless you know what you're doing.
 
-There currently isn't a simple way to solve this issue from the PancakeSwap website: you'll need to interact with the contract directly. You can add liquidity directly via the Router contract, while setting amountAMin to a small amount, then withdrawing all liquidity.
+There currently isn't a simple way to solve this issue from the ZexdexApp website: you'll need to interact with the contract directly. You can add liquidity directly via the Router contract, while setting amountAMin to a small amount, then withdrawing all liquidity.
 
 #### **Approve the LP contract**
 
@@ -162,7 +162,7 @@ Please contact the project team of the token you're trying to swap. \*\*\*\* Thi
 {% endtab %}
 
 {% tab title="Reason" %}
-**This issue (while swapping) is caused by tokens which have hard-coded the V1 PancakeSwap router into their contract.**
+**This issue (while swapping) is caused by tokens which have hard-coded the V1 ZexdexApp router into their contract.**
 
 While this practice is ill-advised at best, the reason for these projects having done this appears to be due to their tokenomics, in which each purchase sends a % of the token to LPs.
 
@@ -329,7 +329,7 @@ This happens when you try to connect via a browser extension like MetaMask or Bi
 
 {% tabs %}
 {% tab title="Solution" %}
-Install the official browser extension to connect, or read our guide on [how to connect a wallet to PancakeSwap](https://docs.pancakeswap.finance/get-started/connection-guide).
+Install the official browser extension to connect, or read our guide on [how to connect a wallet to ZexdexApp](https://docs.zexdex.app/get-started/connection-guide).
 {% endtab %}
 {% endtabs %}
 
@@ -385,7 +385,7 @@ We're investigating the logic behind this issue. Meanwhile please try the workar
 {% tabs %}
 {% tab title="Workaround 1" %}
 1. Go to “Collectible” page, then come back to profile page.\
-   If you can’t find the link, go to [https://pancakeswap.finance/collectibles](https://pancakeswap.finance/collectibles) directly.
+   If you can’t find the link, go to [https://zexdex.app/collectibles](https://zexdex.app/collectibles) directly.
 2. Retry profile creation.
 {% endtab %}
 
@@ -410,7 +410,7 @@ There are two possible causes.
 {% tab title="Solution 1" %}
 Root cause: You have multiple wallets installed on the browser.\
 \
-It may make a conflict between wallets. This is out of PancakeSwap's control and we can do nothing.
+It may make a conflict between wallets. This is out of ZexdexApp's control and we can do nothing.
 
 1. Have only single wallet installed on browser, remove the others.
 2. Reconnect the wallet and retry setting username again.

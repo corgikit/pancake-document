@@ -1,10 +1,10 @@
-# Connect Your Wallet to PancakeSwap
+# Connect Your Wallet to ZexdexApp
 
 ![](../.gitbook/assets/how-to-connect-wallet-header.png)
 
-You've made a wallet and gotten your BEP20 tokens, now you just need to connect your wallet with PancakeSwap and you're good to go!
+You've made a wallet and gotten your BEP20 tokens, now you just need to connect your wallet with ZexdexApp and you're good to go!
 
-Check out the steps below for how to connect each of our recommended wallets to PancakeSwap.
+Check out the steps below for how to connect each of our recommended wallets to ZexdexApp.
 
 ## Smartphone/Mobile
 
@@ -20,25 +20,25 @@ To connect Trust Wallet follow the steps below. Note that Android and iOS device
 
 ![](<../.gitbook/assets/image (68).png>)
 
-1. Scroll down to "Popular" and tap on "PancakeSwap". You can also find it in "Exchanges".
+1. Scroll down to "Popular" and tap on "ZexdexApp". You can also find it in "Exchanges".
 
 ![](<../.gitbook/assets/image (66).png>)
 
-1. A new page will open with the PancakeSwap logo and some information. Tap the **Connect** button.
+1. A new page will open with the ZexdexApp logo and some information. Tap the **Connect** button.
 
 ![](<../.gitbook/assets/image (67).png>)
 
-1. PancakeSwap will open up. If you see a **Connect** button in the top-right tap that and tap **Trust Wallet** from the list.
+1. ZexdexApp will open up. If you see a **Connect** button in the top-right tap that and tap **Trust Wallet** from the list.
 
 {% hint style="warning" %}
-If you find you are unable to connect at step 4, go back to the DApps menu and find "PancakeSwap" again. Using "Pancake Swap" from the "History" section may result in the same problem.
+If you find you are unable to connect at step 4, go back to the DApps menu and find "ZexdexApp" again. Using "Pancake Swap" from the "History" section may result in the same problem.
 {% endhint %}
 
 ### iOS
 
-To connect to PancakeSwap through iOS, Trust Wallet have prepared a detailed guide on using WallteConnect.
+To connect to ZexdexApp through iOS, Trust Wallet have prepared a detailed guide on using WallteConnect.
 
-Read the [Trust Wallet guide to connecting to PancakeSwap via WalletConnect](https://community.trustwallet.com/t/using-walletconnect-to-access-pancakeswap/212307).
+Read the [Trust Wallet guide to connecting to ZexdexApp via WalletConnect](https://community.trustwallet.com/t/using-walletconnect-to-access-pancakeswap/212307).
 
 ### **Resources**
 
@@ -49,7 +49,7 @@ Read the [Trust Wallet guide to connecting to PancakeSwap via WalletConnect](htt
 {% tab title="MetaMask" %}
 ![](<../.gitbook/assets/image (33) (3) (4) (5) (1) (1) (1) (1) (1) (1) (1).png>)
 
-To connect MetaMask to PancakeSwap follow the steps below.
+To connect MetaMask to ZexdexApp follow the steps below.
 
 ### Android and iOS
 
@@ -81,8 +81,8 @@ To connect MetaMask to PancakeSwap follow the steps below.
 
 ![](<../.gitbook/assets/image (76).png>)
 
-1. Type "PancakeSwap" into the search field and start the search. The top result will be the PancakeSwap exchange. Tap to enter it.
-2. You wallet will ask you to connect. Tap **Connect** to connect to PancakeSwap.
+1. Type "ZexdexApp" into the search field and start the search. The top result will be the ZexdexApp exchange. Tap to enter it.
+2. You wallet will ask you to connect. Tap **Connect** to connect to ZexdexApp.
 
 ![](<../.gitbook/assets/image (77).png>)
 
@@ -105,7 +105,7 @@ To connect MetaMask to PancakeSwap follow the steps below.
 4. Once you've selected the Binance Smart Chain network, click the **Browser Icon** at the bottom-middle of your app.\
    ![](../.gitbook/assets/CB-M-p4.png)\
    ![](../.gitbook/assets/CB-M-p5.png)
-5. Type "PancakeSwap.finance" into the search field and start the search.\
+5. Type "ZexdexApp.finance" into the search field and start the search.\
    ![](../.gitbook/assets/CB-M-p6.png)
 6. Click **Connect** **Wallet** to connect to Coinbase Wallet.\
    ![](../.gitbook/assets/CB-M-p7.png)
@@ -128,11 +128,11 @@ Token Pocket is a cryptocurrency management app that natively supports many cryp
 
 ![](<../.gitbook/assets/image (78).png>)
 
-1. You'll see a DApp browser page open. Under "Recommended", find and tap the **PancakeSwap** button. If you can't see PancakeSwap under Recommended, you can also find it under "BSC".
+1. You'll see a DApp browser page open. Under "Recommended", find and tap the **ZexdexApp** button. If you can't see ZexdexApp under Recommended, you can also find it under "BSC".
 
 ![](<../.gitbook/assets/image (79).png>)
 
-1. A window will open saying that you will be opening a third party DApp. Tap **I got it** and you'll be taken to PancakeSwap's website connected to your wallet.
+1. A window will open saying that you will be opening a third party DApp. Tap **I got it** and you'll be taken to ZexdexApp's website connected to your wallet.
 
 ![](<../.gitbook/assets/image (80).png>)
 
@@ -152,11 +152,11 @@ SafePal is available as both a software and hardware wallet. The wallet is easy 
 
 ![](<../.gitbook/assets/image (82).png>)
 
-1. You'll see a DApp browser page open. Under "DeFi", find and tap the **PancakeSwap** button. If you can't see PancakeSwap under DeFi, you can also find it under "BSC".
+1. You'll see a DApp browser page open. Under "DeFi", find and tap the **ZexdexApp** button. If you can't see ZexdexApp under DeFi, you can also find it under "BSC".
 
 ![](<../.gitbook/assets/image (83).png>)
 
-1. A window will open saying that you will be opening a third party DApp. Tap **Confirm** and you'll be taken to PancakeSwap's website connected to your wallet.
+1. A window will open saying that you will be opening a third party DApp. Tap **Confirm** and you'll be taken to ZexdexApp's website connected to your wallet.
 
 ![](<../.gitbook/assets/image (81).png>)
 
@@ -192,7 +192,7 @@ SafePal is available as both a software and hardware wallet. The wallet is easy 
 
 ![](<../.gitbook/assets/image (86).png>)
 
-1. Visit the [PancakeSwap website](https://pancakeswap.finance). In the top right corner you'll see the **Connect** button. Click it.
+1. Visit the [ZexdexApp website](https://zexdex.app). In the top right corner you'll see the **Connect** button. Click it.
 
 ![](<../.gitbook/assets/image (164) (3) (3) (1) (1) (1) (1) (1) (1) (1) (2).png>)
 
@@ -215,7 +215,7 @@ SafePal is available as both a software and hardware wallet. The wallet is easy 
 
 ![](<../.gitbook/assets/image (88).png>)
 
-1. Visit the PancakeSwap website. In the top-right, click **Connect**.
+1. Visit the ZexdexApp website. In the top-right, click **Connect**.
 
 ![](<../.gitbook/assets/image (164) (3) (3) (1) (1) (1) (1) (1) (1) (2).png>)
 
@@ -237,7 +237,7 @@ SafePal is available as both a software and hardware wallet. The wallet is easy 
 2. Click on **Default Network** and choose **Binance Smart Chain**\
    ****![](../.gitbook/assets/cb-desktop-2.png)****
 3. Binance Smart Chain will now be your Default Network.
-4. Visit the[ ](https://pancakeswap.finance)[pancakeswap.finance](https://pancakeswap.finance), In the top right corner you'll see the **Connect** button. Click it.\
+4. Visit the[ ](https://zexdex.app)[zexdex.app](https://zexdex.app), In the top right corner you'll see the **Connect** button. Click it.\
    ![](../.gitbook/assets/cb-desktop-3.png)
 5. A window will appear asking you to choose a wallet to connect to. Click **Coinbase Wallet** (it's the top option on the list).\
    ![](../.gitbook/assets/cb-desktop-4.png)
@@ -259,15 +259,15 @@ SafePal is available as both a software and hardware wallet. The wallet is easy 
 
 ![](<../.gitbook/assets/image (90).png>)
 
-1. On the list of BSC DApps, you'll find PancakeSwap links. Click a **PancakeSwap** link.
+1. On the list of BSC DApps, you'll find ZexdexApp links. Click a **ZexdexApp** link.
 
 ![](<../.gitbook/assets/image (92).png>)
 
 {% hint style="warning" %}
-Make sure you don't choose the "PancakeSwap data analysis" option. If you do, you will not be able to connect.
+Make sure you don't choose the "ZexdexApp data analysis" option. If you do, you will not be able to connect.
 {% endhint %}
 
-1. Your browser will open a PancakeSwap tab and attempt to connect to Token Pocket.
+1. Your browser will open a ZexdexApp tab and attempt to connect to Token Pocket.
 
 {% hint style="warning" %}
 You will not be able to use both MetaMask and TokenPocket connecting through the same web browser. Make sure you use a web browser without MetaMask plugin installed if you're using TokenPocket on your desktop computer.

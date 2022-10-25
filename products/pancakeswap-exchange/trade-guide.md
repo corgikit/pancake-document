@@ -2,17 +2,17 @@
 
 ![](../../.gitbook/assets/how-to-trade-on-pancakeswap-header.png)
 
-Trading on PancakeSwap is very easy compared to most exchanges. You aren't going to be overwhelmed by charts or jargon, and calculations are all handled for you.
+Trading on ZexdexApp is very easy compared to most exchanges. You aren't going to be overwhelmed by charts or jargon, and calculations are all handled for you.
 
 ### Getting set up to trade
 
-Before you can trade, you will need a BNB Smart Chain-compatible wallet. You can learn how to get one [here](https://docs.pancakeswap.finance/get-started/wallet-guide). You will also need to have some BEP20 tokens to trade with. You can learn how to get some [here](https://docs.pancakeswap.finance/get-started/bep20-guide).
+Before you can trade, you will need a BNB Smart Chain-compatible wallet. You can learn how to get one [here](https://docs.zexdex.app/get-started/wallet-guide). You will also need to have some BEP20 tokens to trade with. You can learn how to get some [here](https://docs.zexdex.app/get-started/bep20-guide).
 
-### Trading on the PancakeSwap exchange
+### Trading on the ZexdexApp exchange
 
-1\. Go to the exchange page [here](https://exchange.pancakeswap.finance/#/swap).
+1\. Go to the exchange page [here](https://exchange.zexdex.app/#/swap).
 
-2\. Unlock your BNB Smart Chain-compatible wallet by clicking **Unlock Wallet** (you can also **Connect** in the top right-hand corner). If you haven't yet connected your wallet to PancakeSwap, you can view the guide to [here](https://docs.pancakeswap.finance/get-started/connection-guide).
+2\. Unlock your BNB Smart Chain-compatible wallet by clicking **Unlock Wallet** (you can also **Connect** in the top right-hand corner). If you haven't yet connected your wallet to ZexdexApp, you can view the guide to [here](https://docs.zexdex.app/get-started/connection-guide).
 
 ![](<../../.gitbook/assets/image (12).png>)
 
@@ -44,7 +44,7 @@ When you are ready, click the **Confirm Swap** button. Your wallet will ask you 
 
 ## How come my transaction won't go through?
 
-PancakeSwap is a DeFi application such that it interacts with the wallet to complete on-chain transactions for swapping, creating LPs, staking in farms and pools, etc. &#x20;
+ZexdexApp is a DeFi application such that it interacts with the wallet to complete on-chain transactions for swapping, creating LPs, staking in farms and pools, etc. &#x20;
 
 ### Gas Fees
 

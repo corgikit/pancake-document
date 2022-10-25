@@ -41,7 +41,7 @@ The burning process is currently manual. [View burn transactions here](https://b
 
 As well as the above, CAKE is also burned in the following ways:
 
-* **0.0575%** of every trade made on PancakeSwap V2
+* **0.0575%** of every trade made on ZexdexApp V2
 * **100%** of CAKE sent to the Dev address
 * **100%** of CAKE performance fees from IFOs
 * **100%** of CAKE spent on Profile Creation and NFT minting
@@ -56,14 +56,14 @@ As well as the above, CAKE is also burned in the following ways:
 
 ## Why is the CAKE burn manual?
 
-To hit the ground running, PancakeSwap launched as an MVP (minimum viable product) with the MasterChef contract emitting 40 CAKE per block. For that reason, the early team didn't add additional functions such as the ability to customize the CAKE minting logic. The team has been controlling CAKE emissions through a manual burn process by creating two pools in MasterChef v1:
+To hit the ground running, ZexdexApp launched as an MVP (minimum viable product) with the MasterChef contract emitting 40 CAKE per block. For that reason, the early team didn't add additional functions such as the ability to customize the CAKE minting logic. The team has been controlling CAKE emissions through a manual burn process by creating two pools in MasterChef v1:
 
 * Legacy Lottery Pool (PID - 137) - burned CAKE from the lottery
 * Burn Pool (PID - 138) - burned CAKE per block
 
 These pools work similarly to the farms, where the Chefs can adjust the percentage of the 40 CAKE per block allocated to it after each CAKE emission reduction vote.
 
-**However, in April 2022, PancakeSwap migrated to a new MasterChef v2 contract.** The ratio of the CAKE burn per block is finally controlled by a dedicated contract. This allows the burn to be much more accurate.
+**However, in April 2022, ZexdexApp migrated to a new MasterChef v2 contract.** The ratio of the CAKE burn per block is finally controlled by a dedicated contract. This allows the burn to be much more accurate.
 
 {% hint style="warning" %}
 Due to MasterChef v2 occasionally harvesting the full 40 CAKE per block. The supply shown on the homepage (or some 3rd party trackers) might suddenly jump by several million CAKE.
@@ -73,7 +73,7 @@ Don't worry - **EMISSION IS NOW CONTROLLED CAREFULLY BY MASTERCHEF V2. CAKE TO B
 
 ## How to Confirm CAKE Supply for yourself
 
-To confirm that the circulating CAKE supply shown on the PancakeSwap homepage is correct,&#x20;
+To confirm that the circulating CAKE supply shown on the ZexdexApp homepage is correct,&#x20;
 
 1. Head to the CAKE token contract on BscScan and [see how much CAKE is held by the Burn Address.](https://bscscan.com/token/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82#balances) That's the total amount of CAKE that's been burned (removed from circulation FOREVER, and impossible to ever retrieve).
 2. Then, subtract this burned amount from the "Total Supply" that BscScan shows.

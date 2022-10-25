@@ -4,7 +4,7 @@
 
 Buy new tokens using CAKE.
 
-The project gets the CAKE, PancakeSwap burns the participation fees CAKE. **You get the tokens.**
+The project gets the CAKE, ZexdexApp burns the participation fees CAKE. **You get the tokens.**
 
 1. **You will need CAKE** to participate.
 2. **You will need iCAKE** to participate in Public Sales.
@@ -14,17 +14,17 @@ Learn [how to participate in IFO](ifo-guide.md).
 
 ## **How to participate in an IFO**
 
-Visit [https://pancakeswap.finance/ifo](https://pancakeswap.finance/ifo) to find out more about IFOs.
+Visit [https://zexdex.app/ifo](https://zexdex.app/ifo) to find out more about IFOs.
 
 Before Sale:
 
-1. [Complete your PancakeSwap profile setup](../nft-profile-system/profile-guide.md).
-2. [Buy CAKE](https://exchange.pancakeswap.finance/?\_gl=1\*1bc8owa\*\_ga\*ODA4ODE5MjM4LjE2MDUxNTI3NTE.\*\_ga\_334KNG3DMQ\*MTYwNTQ4OTEwNy4yNi4xLjE2MDU0ODkxMjcuMA..#/swap) tokens
+1. [Complete your ZexdexApp profile setup](../nft-profile-system/profile-guide.md).
+2. [Buy CAKE](https://exchange.zexdex.app/?\_gl=1\*1bc8owa\*\_ga\*ODA4ODE5MjM4LjE2MDUxNTI3NTE.\*\_ga\_334KNG3DMQ\*MTYwNTQ4OTEwNy4yNi4xLjE2MDU0ODkxMjcuMA..#/swap) tokens
 3. [Lock CAKE in the CAKE syrup pool](../coming-soon/new-cake-pool/fixed-term-staking.md) to get iCAKE.
 
 During Sale:
 
-1. While the sale is live, commit your CAKE tokens to buy the IFO tokens at [https://pancakeswap.finance/ifo](https://pancakeswap.finance/ifo)
+1. While the sale is live, commit your CAKE tokens to buy the IFO tokens at [https://zexdex.app/ifo](https://zexdex.app/ifo)
 
 After Sale:
 
@@ -48,6 +48,6 @@ The sale will proceed as normal, and all funds contributed will be spent.
 
 ## Want to launch your own IFO?
 
-Launch your project with PancakeSwap, BNB Smart Chain’s most-used AMM project and liquidity provider, to bring your token directly to the most active and rapidly growing community on BSC.
+Launch your project with ZexdexApp, BNB Smart Chain’s most-used AMM project and liquidity provider, to bring your token directly to the most active and rapidly growing community on BSC.
 
 👉 [Apply to launch now! ](https://docs.google.com/forms/d/e/1FAIpQLSf0Vmy3k0KyXtXwqxr8QLjD8Xd6KBAmkYxcBRRVTUYJVX17fA/viewform)

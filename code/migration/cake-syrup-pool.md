@@ -4,13 +4,13 @@ description: Migrate to new CAKE Syrup Pool
 
 # CAKE Syrup Pool
 
-The new CakePool is a new $CAKE staking contract built based on the CakeVault (the current auto CAKE pool) and designed to work with PancakeSwap MasterChef v2 to provide "stake $CAKE, earn $CAKE" functionality while offering more features such as fixed-term staking. The current Manual CAKE pool will be retired after the migration.
+The new CakePool is a new $CAKE staking contract built based on the CakeVault (the current auto CAKE pool) and designed to work with ZexdexApp MasterChef v2 to provide "stake $CAKE, earn $CAKE" functionality while offering more features such as fixed-term staking. The current Manual CAKE pool will be retired after the migration.
 
 The new CakePool will use a dummy token to harvest $CAKE from MasterChef v2 and reward them to users who are staking $CAKE. Users who lock their $CAKE for longer will receive a more significant number of shares (boosted linearly based on duration), therefore, enjoy a higher yield.
 
 ### Do I need to migrate?&#x20;
 
-If you are currently using `enterStaking` and `leaveStaking` on the PancakeSwap MasterChef ([0x73feaa1eE314F8c655E354234017bE2193C9E24E](https://bscscan.com/address/0x73feaa1eE314F8c655E354234017bE2193C9E24E)), you will need to migrate to the new contract.
+If you are currently using `enterStaking` and `leaveStaking` on the ZexdexApp MasterChef ([0x73feaa1eE314F8c655E354234017bE2193C9E24E](https://bscscan.com/address/0x73feaa1eE314F8c655E354234017bE2193C9E24E)), you will need to migrate to the new contract.
 
 ### No more compounding
 
@@ -32,7 +32,7 @@ A 0.1% withdrawal fee will apply to the unstaking amount if you withdraw within 
 
 #### Deposit
 
-If you are currently using the `enterStaking(uint256 _amount)` on the current PancakeSwap MasterChef. You need to migrate to `deposit(uint256 _amount, uint256 _lockDuration)`. For flexible staking, simply use “0” as `_lockDuration`.
+If you are currently using the `enterStaking(uint256 _amount)` on the current ZexdexApp MasterChef. You need to migrate to `deposit(uint256 _amount, uint256 _lockDuration)`. For flexible staking, simply use “0” as `_lockDuration`.
 
 #### Staking Balance and Fees
 
@@ -155,7 +155,7 @@ However, you can query the number of CAKE earned since the last action, using th
 
 #### Withdraw
 
-If you are using the `leaveStaking(uint256 _amount)` method on the current PancakeSwap MasterChef. You need to migrate to `withdraw(uint256 _shares)`.
+If you are using the `leaveStaking(uint256 _amount)` method on the current ZexdexApp MasterChef. You need to migrate to `withdraw(uint256 _shares)`.
 
 When doing flexible staking. Please note that upon withdrawing, the pending reward fees will be calculated and cut from the number of users’ shares, the actual number of shares being withdrawn will be re-calibrated, based on the percentage of the shares you are withdrawing against the total shares you have. See the example below:
 
@@ -192,11 +192,11 @@ You can query the `cakePool.allocPoint` using `MasterChef.poolInfo(0)`
 **Contract name:** CakePool\
 **Contract address:** `0x45c54210128a065de780C4B0Df3d16664f7f859e`
 
-[View the PancakeSwap: Cake Pool Contract on BscScan.](https://bscscan.com/address/0x45c54210128a065de780C4B0Df3d16664f7f859e)****
+[View the ZexdexApp: Cake Pool Contract on BscScan.](https://bscscan.com/address/0x45c54210128a065de780C4B0Df3d16664f7f859e)****
 
 ### **Testnet Environment**
 
-You can use the following testnet environment to test the integration of your project with the new PancakeSwap CAKE Pool. If you have any questions, please contact our team via the existing channels, or reach out to bun@pancakeswap.com via Email.
+You can use the following testnet environment to test the integration of your project with the new ZexdexApp CAKE Pool. If you have any questions, please contact our team via the existing channels, or reach out to bun@pancakeswap.com via Email.
 
 **Dummy Tokens:**
 

@@ -18,7 +18,7 @@ You can also redeem your funds at any time by removing your liquidity.
 
 Providing liquidity gives you a reward in the form of trading fees when people use your liquidity pool.&#x20;
 
-Whenever someone trades on PancakeSwap, the trader pays a 0.25% fee, **of which 0.17%** is added to the Liquidity Pool of the swap pair they traded on.
+Whenever someone trades on ZexdexApp, the trader pays a 0.25% fee, **of which 0.17%** is added to the Liquidity Pool of the swap pair they traded on.
 
 For example:
 
@@ -29,7 +29,7 @@ For example:
 * The CAKE/BNB liquidity pool now has 10.017 CAKE and 10.017 BNB.
 * Each LP token is now worth 1.00017 CAKE + 1.00017 BNB.
 
-To make being a liquidity provider even more worth your while, you can also put your LP tokens to work whipping up some fresh yield on the [CAKE Farms](https://pancakeswap.finance/farms), while still earning your 0.17% trading fee reward.
+To make being a liquidity provider even more worth your while, you can also put your LP tokens to work whipping up some fresh yield on the [CAKE Farms](https://zexdex.app/farms), while still earning your 0.17% trading fee reward.
 
 ## Impermanent Loss
 

@@ -1,18 +1,18 @@
 ---
-description: 'Syrup Pools: the simplest way to earn on PancakeSwap'
+description: 'Syrup Pools: the simplest way to earn on ZexdexApp'
 ---
 
 # Other Syrup Pools
 
 ![](../../../.gitbook/assets/how-to-syrup-pool-staking-header.png)
 
-Staking in [Syrup Pools](https://docs.pancakeswap.finance/products/syrup-pool) lets you earn CAKE or other tokens while you sleep!
+Staking in [Syrup Pools](https://docs.zexdex.app/products/syrup-pool) lets you earn CAKE or other tokens while you sleep!
 
-It's simpler than farming with PancakeSwap's Yield Farms because unlike the Farms, you only need to stake **one token** to start earning: usually CAKE.
+It's simpler than farming with ZexdexApp's Yield Farms because unlike the Farms, you only need to stake **one token** to start earning: usually CAKE.
 
 ## **Getting started with Syrup Pool staking**
 
-1\. Go to the Pools page [here](https://pancakeswap.finance/pools).
+1\. Go to the Pools page [here](https://zexdex.app/pools).
 
 ![](<../../../.gitbook/assets/1-how-to-stake-in-syrup-pool (1) (1) (1) (1) (1) (2).png>)
 

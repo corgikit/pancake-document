@@ -2,9 +2,9 @@
 
 ![](https://lh4.googleusercontent.com/B1N\_fmtOnosL-mcID7xeRnRqmY-6SQWMxXjgTi\_GBpBN2kxSq\_13kZcvmre857wiFnONLCrTMMndkiyLHf-35HmvEJAtA2rkAQG4lCzxozc2NwfjBnWpQms4ZD9wtwRBG9UEAQIX2r1yDq0t1ENmXko)
 
-PancakeSwap’s Pottery is an alternative way to stack CAKE other than just locking and staking your CAKE in the staking pool, this guide will walk you through how to navigate in the PancakeSwap web UI to participate.
+ZexdexApp’s Pottery is an alternative way to stack CAKE other than just locking and staking your CAKE in the staking pool, this guide will walk you through how to navigate in the ZexdexApp web UI to participate.
 
-Learn more about the product structure, risks, fees of the [PancakeSwap Pottery here](https://docs.pancakeswap.finance/products/pottery).
+Learn more about the product structure, risks, fees of the [ZexdexApp Pottery here](https://docs.zexdex.app/products/pottery).
 
 ## Deciding if you'd like to enter a Pottery cohort
 
@@ -22,7 +22,7 @@ The deposit for each Pottery cohort is open once a month. The deposit closes and
 
 ![](https://lh5.googleusercontent.com/\_TqVUlNGtnGvGz\_wysnq-KmewS\_CjmUJ0jMHwzRMLx47Rmq-x868M0q-iBXCqynotDqz3mxnUZovExx4bUb8BBv3W6OXl4u4pJWFmOz\_\_IYASvQ\_hgmccB3GPaL1oz4TutJr3PTwdz\_2NoVzmnpkcD0)
 
-– In this case, you can deposit your CAKE to participate in the Pottery if the APY, total value locked, and the odds of winning are acceptable to you. Before you deposit, please make sure you fully understand the risks of participating! All deposits will be locked for 10 weeks with no early withdrawal under any circumstances. Please learn more about [the risks and fees here](https://docs.pancakeswap.finance/products/pottery).
+– In this case, you can deposit your CAKE to participate in the Pottery if the APY, total value locked, and the odds of winning are acceptable to you. Before you deposit, please make sure you fully understand the risks of participating! All deposits will be locked for 10 weeks with no early withdrawal under any circumstances. Please learn more about [the risks and fees here](https://docs.zexdex.app/products/pottery).
 
 ## **Viewing your deposit**
 
@@ -38,7 +38,7 @@ After each draw on Friday at around noon UTC, you can view the results and winne
 
 ![](https://lh3.googleusercontent.com/ClT6Dx6rJlfFmzmyxwCGwIUsDv-DuhzVAWN5Qt0sOulj2\_zDrMJHDJvQqr6vS0t6IO090pstOi0BJTKADDVj7C\_kspWM\_f-M83EGERNiEvON-GTl\_nvXANGH5etDbnBmieRSZ66G8krr8GUWc2s5SDw)
 
-Based on the drawn date, find the corresponding round for the cohort you would like to check – on each Friday, there could be more than one draw since there are different cohorts, make sure you’re checking the right draw for the cohort you’re looking for. Please read to learn more about [the cohort structure here](https://docs.pancakeswap.finance/products/pottery#pottery-cohort).
+Based on the drawn date, find the corresponding round for the cohort you would like to check – on each Friday, there could be more than one draw since there are different cohorts, make sure you’re checking the right draw for the cohort you’re looking for. Please read to learn more about [the cohort structure here](https://docs.zexdex.app/products/pottery#pottery-cohort).
 
 ## Claiming the prize
 

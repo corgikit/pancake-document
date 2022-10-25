@@ -4,7 +4,7 @@
 
 ### What is the value contribution of this new feature to the cake holders?
 
-We expect this new feature to bring in a lot of new users, traders and volume. We want to ensure the value goes back to our CAKE token on top of offering the trading fee discount. 20% of all trading fees from users who sign up on PancakeSwap will be converted to CAKE and burnt.
+We expect this new feature to bring in a lot of new users, traders and volume. We want to ensure the value goes back to our CAKE token on top of offering the trading fee discount. 20% of all trading fees from users who sign up on ZexdexApp will be converted to CAKE and burnt.
 
 **And the rest of it?**
 

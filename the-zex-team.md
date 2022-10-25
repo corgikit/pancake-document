@@ -1,6 +1,6 @@
 # The Kitchen Team
 
-![](.gitbook/assets/the-kitchen-team-header.png)
+![](.gitbook/images/the-zteam-header.png)
 
 You can jump to the kitchen interviews article by clicking chef's name.
 
@@ -12,7 +12,7 @@ You can jump to the kitchen interviews article by clicking chef's name.
 
 🐰 Chef Cadbury - Product Manager
 
-🐰 Chef Bun - Product Manager, 不是饺子 ([Twitter](http://twitter.com/chef\_bun\_pcs))
+🐰 Chef Bun - Product Manager, 不是饺子 ([Twitter](http://twitter.com/chef_bun_pcs))
 
 🐰 Chef Pepper - Business Dev
 

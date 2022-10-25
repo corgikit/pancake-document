@@ -2,20 +2,20 @@
 
 ![](../../.gitbook/assets/how-to-add-remove-liquidity-header.png)
 
-"Liquidity" is central to how PancakeSwap's Exchange works. You can add liquidity for any token pair by staking both through the Liquidity page.
+"Liquidity" is central to how ZexdexApp's Exchange works. You can add liquidity for any token pair by staking both through the Liquidity page.
 
-In return for adding liquidity, you'll receive trading fees for that pair, and receive LP Tokens you can stake in [Farms](https://pancakeswap.finance/farms) to earn CAKE rewards!
+In return for adding liquidity, you'll receive trading fees for that pair, and receive LP Tokens you can stake in [Farms](https://zexdex.app/farms) to earn CAKE rewards!
 
 ### **Adding liquidity**
 
 To provide liquidity, you’ll need to commit an amount of any token pair you like. Your lowest value (in USD) of the two tokens will be the limit to the liquidity you can provide.
 
-You can easily trade for any tokens you need. Visit our [How to Trade on PancakeSwap](https://docs.pancakeswap.finance/get-started/trade-guide) guide if you need to.
+You can easily trade for any tokens you need. Visit our [How to Trade on ZexdexApp](https://docs.zexdex.app/get-started/trade-guide) guide if you need to.
 
 In this example, we will add liquidity using BNB and CAKE.\
 ****
 
-1\. Visit the [Liquidity page](https://exchange.pancakeswap.finance/#/pool).
+1\. Visit the [Liquidity page](https://exchange.zexdex.app/#/pool).
 
 ![](../../.gitbook/assets/Add\_Remove\_LP\_01.png)
 
@@ -59,7 +59,7 @@ You can repeat the above steps to add more liquidity, or add liquidity to differ
 
 To remove liquidity.
 
-1\. Visit the [Liquidity page](https://exchange.pancakeswap.finance/#/pool)**.**
+1\. Visit the [Liquidity page](https://exchange.zexdex.app/#/pool)**.**
 
 2\. Click on the pair you want to remove liquidity from under “Your Liquidity".
 

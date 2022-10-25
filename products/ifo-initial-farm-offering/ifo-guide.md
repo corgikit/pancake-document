@@ -6,7 +6,7 @@
 We will be bringing several new updates to the IFO process over the coming weeks, please refer to the details in the IFO proposal (vote) for the specifics of the IFO you want to take part in.
 {% endhint %}
 
-An IFO on PancakeSwap is an Initial Farm Offering. IFOs let you get early access to PancakeSwap’s new tokens as soon as they are added. By being one of the first to have a new token, you can benefit from higher rewards!
+An IFO on ZexdexApp is an Initial Farm Offering. IFOs let you get early access to ZexdexApp’s new tokens as soon as they are added. By being one of the first to have a new token, you can benefit from higher rewards!
 
 IFOs are available for a very limited time. Get ready ahead of the event to make sure you can participate!
 
@@ -14,17 +14,17 @@ IFOs are available for a very limited time. Get ready ahead of the event to make
 
 Before you can join an IFO there are a few things you will need to do to get ready. Follow the steps below to make sure you're ready to buy when the IFO event goes live.
 
-### Create your PancakeSwap profile
+### Create your ZexdexApp profile
 
-To take part in an IFO, you'll need a PancakeSwap profile. Having a profile protects the security of the IFO and makes it fair for everyone. The small cost of a profile also helps keep the total CAKE supply down by burning a little CAKE from each profile created.\
+To take part in an IFO, you'll need a ZexdexApp profile. Having a profile protects the security of the IFO and makes it fair for everyone. The small cost of a profile also helps keep the total CAKE supply down by burning a little CAKE from each profile created.\
 \
-To create a profile, you can follow our How to Set Up an NFT Profile guide [here](https://docs.pancakeswap.finance/get-started/profile-guide).
+To create a profile, you can follow our How to Set Up an NFT Profile guide [here](https://docs.zexdex.app/get-started/profile-guide).
 
 ### Lock CAKE in the CAKE Syrup Pool to get iCAKE
 
-iCAKE determines the maximum CAKE commit limit in the PancakeSwap IFO public sales. For example, if you have 200 iCAKE, you will be able to commit 200 CAKE in any upcoming IFO public sales. The number of iCAKE you have is based on the number of CAKE staked in the fixed-term CAKE staking pool and the total staking duration of your current fixed-term staking position.
+iCAKE determines the maximum CAKE commit limit in the ZexdexApp IFO public sales. For example, if you have 200 iCAKE, you will be able to commit 200 CAKE in any upcoming IFO public sales. The number of iCAKE you have is based on the number of CAKE staked in the fixed-term CAKE staking pool and the total staking duration of your current fixed-term staking position.
 
-To get iCAKE, go to the IFO page [here](https://pancakeswap.finance/ifo). Locate the CAKE syrup pool card, and click "Locked" under "Stake CAKE" to proceed.
+To get iCAKE, go to the IFO page [here](https://zexdex.app/ifo). Locate the CAKE syrup pool card, and click "Locked" under "Stake CAKE" to proceed.
 
 To learn more about iCAKE and how is iCAKE calculated, check out the doc [here](icake.md).&#x20;
 
@@ -36,7 +36,7 @@ If you are currently staking your CAKE in a pool, unstake them prior to the IFO 
 
 ### Check on your progress
 
-Once you’ve followed the steps above, go back to the IFO page [here](https://pancakeswap.finance/ifo). Scroll down to the ‘How to Take Part’ section.
+Once you’ve followed the steps above, go back to the IFO page [here](https://zexdex.app/ifo). Scroll down to the ‘How to Take Part’ section.
 
 <img src="../../.gitbook/assets/image (102).png" alt="" data-size="original">
 
@@ -56,7 +56,7 @@ The **(blocks)** link will open the BscScan explorer in a new window at the star
 
 #### Use social media
 
-There isn’t a set time before an IFO goes live for the countdown to start, so check PancakeSwap’s official social media accounts for news about upcoming IFO times.
+There isn’t a set time before an IFO goes live for the countdown to start, so check ZexdexApp’s official social media accounts for news about upcoming IFO times.
 
 The countdown and announcements will give you plenty of time to prepare.
 
@@ -153,6 +153,6 @@ Throughout the entire vesting schedule, you can come back to the IFO page at any
 
 Now that you've got your shiny new tokens, you can put them to work for you!
 
-You can add liquidity for your token to receive LP Tokens. Your LP Tokens will let you collect trading fees for your pair. Read about adding liquidity [here](https://docs.pancakeswap.finance/get-started/liquidity-guide).
+You can add liquidity for your token to receive LP Tokens. Your LP Tokens will let you collect trading fees for your pair. Read about adding liquidity [here](https://docs.zexdex.app/get-started/liquidity-guide).
 
-If you've added liquidity for your new token, you can also use your new LP Tokens to yield farm and earn more rewards! Read about farming [here](https://docs.pancakeswap.finance/products/yield-farming/farms).\
+If you've added liquidity for your new token, you can also use your new LP Tokens to yield farm and earn more rewards! Read about farming [here](https://docs.zexdex.app/products/yield-farming/farms).\
