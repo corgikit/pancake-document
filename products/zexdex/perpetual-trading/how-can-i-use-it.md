@@ -1,6 +1,6 @@
 # How can I use it?
 
-![](../../../.gitbook/assets/how-to-pancakeswap-without-cex-header.png)
+![](../../../.gitbook/images/how-to-pancakeswap-without-cex-header.png)
 
 Using this functionality is really easy (the difficult thing is to trade well). We will only have to follow a series of steps so that our experience is complete
 
@@ -88,7 +88,7 @@ You can also choose the reference currency to see your position
 
 
 
-> Note: there are a few more options to consider, but you can see that within the [trading glossary](https://app.gitbook.com/o/-MHRKTpKSfYQBsO7YgOo/s/-MHREX7DHcljbY5IkjgJ-1972196547/\~/changes/kV67VeywrXQ7vYfX5se0/products/pancakeswap-exchange/perpetual-trading/glossary) \
+> Note: there are a few more options to consider, but you can see that within the [trading glossary](https://app.gitbook.com/o/-MHRKTpKSfYQBsO7YgOo/s/-MHREX7DHcljbY5IkjgJ-1972196547/\~/changes/kV67VeywrXQ7vYfX5se0/products/zexdex/perpetual-trading/glossary) \
 >
 
 
@@ -97,7 +97,7 @@ You can also choose the reference currency to see your position
 
 When all the parameters have been set, you can send the order by clicking on long, if it is a long order, or short, if it is a short order.
 
-![](<../../../.gitbook/assets/image (59) (2).png>)
+![](<../../../.gitbook/images/image (59) (2).png>)
 
 ### Checking your position
 

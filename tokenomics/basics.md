@@ -2,7 +2,7 @@
 
 \*\*\*\*
 
-![](../.gitbook/assets/group-501.png)
+![](../.gitbook/images/group-501.png)
 
 \*\*\*\*
 

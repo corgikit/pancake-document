@@ -4,7 +4,7 @@ description: Migrate your farms and pools staking to the new ZexdexApp MasterChe
 
 # Migrate Your Stakings
 
-![ICYDK: you are currently reading the "tutorial" mentioned in this banner](<../../.gitbook/assets/migration pre heat.png>)
+![ICYDK: you are currently reading the "tutorial" mentioned in this banner](<../../.gitbook/images/migration pre heat.png>)
 
 In order to keep earning staking rewards, you will need to migrate your farms and pools staking to the new MasterChef. Relax, it's gonna be easy.
 
@@ -21,7 +21,7 @@ You need to migrate if you are:
 
 ## How to migrate?
 
-![At the time of the migration, Chefs will deploy a step-by-step helper to walk you through the process ](../../.gitbook/assets/migration-helper-overview.png)
+![At the time of the migration, Chefs will deploy a step-by-step helper to walk you through the process ](../../.gitbook/images/migration-helper-overview.png)
 
 ### 1. Navigate to the migration helper
 
@@ -31,11 +31,11 @@ Go to [https://zexdex.app/migration](https://zexdex.app/migration), and connect 
 
 There are two steps in the migration helper. In the first step, you should see a list of three CAKE syrup pools and farms you are currently staking.
 
-![](<../../.gitbook/assets/migration-helper-steps-guide-3 (2).png>)
+![](<../../.gitbook/images/migration-helper-steps-guide-3 (2).png>)
 
 Click "**Unstake All**" on each of the farms and pools to unstake all your assets.
 
-![](<../../.gitbook/assets/migration-helper-steps-guide-4 (1).png>)
+![](<../../.gitbook/images/migration-helper-steps-guide-4 (1).png>)
 
 After unstaking, click "**Go to Stake**" to proceed to step 2.
 
@@ -43,7 +43,7 @@ After unstaking, click "**Go to Stake**" to proceed to step 2.
 
 Here you should see the brand new CAKE syrup pool and the new farms. Before staking, you will need to enable them.
 
-![](<../../.gitbook/assets/migration-helper-steps-guide-5 (1).png>)
+![](<../../.gitbook/images/migration-helper-steps-guide-5 (1).png>)
 
 Click "**Enable**" to enable staking on each of the farms and the CAKE syrup pool. If you are using a mobile device, please click the “**v**” (downward arrow) to expand the card while looking for the "**Enable**" button.
 
@@ -51,7 +51,7 @@ After enabling, you will be able to start staking in the pool and farms.
 
 {% tabs %}
 {% tab title="CAKE Syrup Pool" %}
-![](<../../.gitbook/assets/migration-helper-steps-guide-7 (2).png>)
+![](<../../.gitbook/images/migration-helper-steps-guide-7 (2).png>)
 
 For CAKE syrup pool. Please:
 
@@ -67,7 +67,7 @@ The locked (fixed-term) staking option will become available a few days after th
 {% endtab %}
 
 {% tab title="Farms" %}
-![](<../../.gitbook/assets/migration-helper-steps-guide-8 (2).png>)
+![](<../../.gitbook/images/migration-helper-steps-guide-8 (2).png>)
 
 For farms, please:
 
@@ -79,13 +79,13 @@ For farms, please:
 
 ### 4. Done!
 
-![](../../.gitbook/assets/migration-helper-steps-guide-9.png)
+![](../../.gitbook/images/migration-helper-steps-guide-9.png)
 
 You are now staking in the new MasterChef and continue earning CAKE rewards! Click "**Finish**" to go back and explore some other great products ZexdexApp offers.
 
 ## Migration Timeline
 
-![](<../../.gitbook/assets/en - migration timeline - 2.png>)
+![](<../../.gitbook/images/en - migration timeline - 2.png>)
 
 Make sure to follow our [Twitter](https://twitter.com/pancakeswap/) or [Telegram](https://t.me/ZexdexAppAnn) announcement channel for detailed timing and the latest updates! Need any help? Learn more about how to reach for help [here](../../contact-us/#help).
 

@@ -72,7 +72,7 @@ When your fixed-term staking period ends, and your CAKE unlocks, you have 7 days
   or
 * Convert your staked CAKE to flexible staking (no 72-hour withdrawal fee).
 
-![](../../../.gitbook/assets/cake-pool-lock-end.png)
+![](../../../.gitbook/images/cake-pool-lock-end.png)
 
 During these 7 days, you will still earn CAKE.
 
@@ -80,4 +80,4 @@ After 7 days, if you have not done one of the two options, your staked CAKE will
 
 So, to avoid missing out on CAKE rewards, we recommend starting a new fixed-term staking period or converting your CAKE to flexible staking at the end of your lock staking period.
 
-![](<../../../.gitbook/assets/cake-pool-lock-burn (1).png>)
+![](<../../../.gitbook/images/cake-pool-lock-burn (1).png>)

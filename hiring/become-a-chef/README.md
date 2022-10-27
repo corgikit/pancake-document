@@ -1,6 +1,6 @@
 # Become a Chef
 
-![](../../.gitbook/assets/become-a-chef-header.png)
+![](../../.gitbook/images/become-a-chef-header.png)
 
 Interested in joining the ZexdexApp team? If you're passionate, dedicated, and a fan of all things fluffy, syrupy, and brownish-gold, we'd love to hear from you!
 

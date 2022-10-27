@@ -1,6 +1,6 @@
 # How to StableSwap
 
-<figure><img src="../../.gitbook/assets/how-to-stableswap.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/images/how-to-stableswap.png" alt=""><figcaption></figcaption></figure>
 
 ## **Trading on the StableSwap**
 
@@ -14,13 +14,13 @@ Trading on the StableSwap is very similar to using the existing ZexdexApp AMM. B
 
 3 - Choose the token pairs you would like to trade. At launch, only one pair (HAY-BUSD) will be added, more stable pairs will be added gradually
 
-![](<../../.gitbook/assets/Screenshot 2022-09-22 at 7.13.54 PM.png>)
+![](<../../.gitbook/images/Screenshot 2022-09-22 at 7.13.54 PM.png>)
 
-4 - From this step on, the swap process is the same as the normal ZexdexApp! Please check the guide [here](https://docs.zexdex.app/products/pancakeswap-exchange/trade-guide) from step 4 onwards
+4 - From this step on, the swap process is the same as the normal ZexdexApp! Please check the guide [here](https://docs.zexdex.app/products/zexdex/trade-guide) from step 4 onwards
 
 ## **Adding & Removing Liquidity**
 
-Adding and removing liquidity for the StableSwap is also very important and similar to the normal ZexdexApp AMM. Please refer to the guide [here](https://docs.zexdex.app/products/pancakeswap-exchange/liquidity-guide) for a more detailed explanation.
+Adding and removing liquidity for the StableSwap is also very important and similar to the normal ZexdexApp AMM. Please refer to the guide [here](https://docs.zexdex.app/products/zexdex/liquidity-guide) for a more detailed explanation.
 
 There are a few differences for StableSwap liquidity:
 
@@ -30,7 +30,7 @@ There are a few differences for StableSwap liquidity:
 
 2 - The supply of the two assets can be imbalanced at the stage of supplying, and there will be a confirmation page to show the ratio of your supply.
 
-![](<../../.gitbook/assets/Screenshot 2022-09-22 at 7.15.56 PM.png>)
+![](<../../.gitbook/images/Screenshot 2022-09-22 at 7.15.56 PM.png>)
 
 3 - You would receive a Stable-LP token as the receipt of the liquidity provision, for future withdrawal and removal.
 
@@ -38,7 +38,7 @@ There are a few differences for StableSwap liquidity:
 
 4 - However, PLEASE NOTE that when you remove the liquidity, you will always get 50%/50% in the assets no matter the ratio when you added the supply. As a simplified example, if you supplied 199 HAY and 1 BUSD, when you remove the liquidity you will receive 100 HAY and 100 BUSD assuming 0 slippage and stable 1:1 prices.
 
-![](<../../.gitbook/assets/Screenshot 2022-09-22 at 7.16.55 PM.png>)
+![](<../../.gitbook/images/Screenshot 2022-09-22 at 7.16.55 PM.png>)
 
 ## **Migrate your HAY-BUSD Farm Staking**
 

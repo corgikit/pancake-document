@@ -1,6 +1,6 @@
 # How to Participate in an IFO
 
-![](../../.gitbook/assets/how-to-enter-an-ifo-header.png)
+![](../../.gitbook/images/how-to-enter-an-ifo-header.png)
 
 {% hint style="info" %}
 We will be bringing several new updates to the IFO process over the coming weeks, please refer to the details in the IFO proposal (vote) for the specifics of the IFO you want to take part in.
@@ -38,7 +38,7 @@ If you are currently staking your CAKE in a pool, unstake them prior to the IFO 
 
 Once you’ve followed the steps above, go back to the IFO page [here](https://zexdex.app/ifo). Scroll down to the ‘How to Take Part’ section.
 
-<img src="../../.gitbook/assets/image (102).png" alt="" data-size="original">
+<img src="../../.gitbook/images/image (102).png" alt="" data-size="original">
 
 You should see your progress is currently at step 3, Commit CAKE, like in the picture above. If for some reason you aren’t at step 3, go back through the guides linked up higher on this page.
 
@@ -108,7 +108,7 @@ If you don’t want to commit more CAKE to the IFO, you can skip ahead to the ne
 
 ### **Committing CAKE to the Private Sale**
 
-![](<../../.gitbook/assets/image (59).png>)
+![](<../../.gitbook/images/image (59).png>)
 
 1\. The checkbox in the Private Sale card will light up if you are eligible to participate in the Private Sale. To use your CAKE in the Private Sale, click the **Commit** button under Private Sale. A window will appear.
 
@@ -136,7 +136,7 @@ Collecting your new tokens is incredibly easy. Just go back to the IFO page once
 
 **IFO with token vesting**
 
-![](../../.gitbook/assets/image7.png)
+![](../../.gitbook/images/image7.png)
 
 Once the IFO sale is finished. A vesting interface will be presented in the IFO sale section. You can find all the useful information about the entire vesting schedule. Including but not limited to:&#x20;
 

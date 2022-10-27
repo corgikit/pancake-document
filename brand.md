@@ -4,7 +4,7 @@ description: Guidlines and downloadable assets like the ZexdexApp logo SVG
 
 # Brand & Logos
 
-![](<.gitbook/assets/Frame 6.png>)
+![](<.gitbook/images/Frame 6.png>)
 
 👇[ Jump to logo download](brand.md#pancakeswap-logo-downloads)
 
@@ -58,11 +58,11 @@ Have fun making a unique brand that's clearly yours -- if your product is strong
 
 ## ZexdexApp Logo Downloads
 
-![](<.gitbook/assets/Frame 4.png>)
+![](<.gitbook/images/Frame 4.png>)
 
 Once you've read all the above, download the ZexdexApp and CAKE logos below.
 
-{% file src=".gitbook/assets/ZexdexApp Logos.zip" %}
+{% file src=".gitbook/images/ZexdexApp Logos.zip" %}
 Download the official ZexdexApp and CAKE logos.
 {% endfile %}
 

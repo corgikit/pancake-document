@@ -1,6 +1,6 @@
 # 🗳 Voting
 
-![](../../.gitbook/assets/voting-header.png)
+![](../../.gitbook/images/voting-header.png)
 
 Voting gives a voice to the ZexdexApp community, letting the community have a say in how ZexdexApp develops into the future.
 

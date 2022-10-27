@@ -1,6 +1,6 @@
 # Contact Us
 
-![](../.gitbook/assets/contact-us-header.png)
+![](../.gitbook/images/contact-us-header.png)
 
 #### Business Contacts
 

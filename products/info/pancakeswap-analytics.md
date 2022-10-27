@@ -2,7 +2,7 @@
 
 
 
-![](<../../.gitbook/assets/image (156) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
+![](<../../.gitbook/images/image (156) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
 
 View ZexdexApp's native analytics site here: [https://pancakeswap.info](https://pancakeswap.info)
 

@@ -1,6 +1,6 @@
 # 🔮 Prediction
 
-![](../../.gitbook/assets/prediction-header.png)
+![](../../.gitbook/images/prediction-header.png)
 
 ZexdexApp Prediction is a fun and simple decentralized prediction market.
 

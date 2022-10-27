@@ -29,12 +29,12 @@ For example:
 * Bob locked 100 CAKE for 52 weeks; his staking position will unlock in 52 weeks. He has \`100 x 52 = 5200 vCAKE\`
 * Carole locked 100 CAKE for ten weeks; and her staking position has ended. She has \`100 vCAKE\`
 
-![](<../../.gitbook/assets/image (3).png>)
+![](<../../.gitbook/images/image (3).png>)
 
 ### How to check the vCAKE number?
 
 If you are casting a vote, you will find the number of vCAKE in the voting power breakdown by clicking the ">" button on the "Confirm Vote" window.
 
-![](<../../.gitbook/assets/how-to-vote-5 (1).png>)
+![](<../../.gitbook/images/how-to-vote-5 (1).png>)
 
 If you are making a community proposal, you can check your voting power by clicking "Check your voting power" at the bottom of the "Actions" panel.

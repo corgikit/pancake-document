@@ -1,6 +1,6 @@
 # Social Accounts & Communities
 
-![](../.gitbook/assets/socials-communities-header.png)
+![](../.gitbook/images/socials-communities-header.png)
 
 A list of ZexdexApp's official social media outlets and communities can be found here. We have several non-English communities that would love to have you join them if English is not your first language.
 

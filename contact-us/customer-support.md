@@ -1,6 +1,6 @@
 # Customer Support
 
-![](../.gitbook/assets/customer-support-header.png)
+![](../.gitbook/images/customer-support-header.png)
 
 ## There is NO customer support for ZexdexApp.
 

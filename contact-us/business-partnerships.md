@@ -1,12 +1,12 @@
 # Business Partnerships
 
-![](../.gitbook/assets/business-partnerships-header.png)
+![](../.gitbook/images/business-partnerships-header.png)
 
 ## Farms and Staking Pools
 
 By giving zDEX to the owners of your trading pair's LP Tokens, farms encourage users to contribute liquidity.
 
-A way to provide your tokens to Binance Smart Chain's users who stake zDEX in the pool is through staking pools.
+A way to provide your tokens to BNB Smart Chain's users who stake zDEX in the pool is through staking pools.
 
 On ZexdexApp, these two products work in tandem: once a project contributes tokens to a Staking Pool, we'll also construct a Farm. Get in contact if you want to promote liquidity by distributing tokens.
 
@@ -57,7 +57,7 @@ Although we strive to respond to applications within a week, we are unable to do
 
 ### How can I list my token on the exchange?
 
-Anybody can "list" any BEP-20 network token on ZexdexApp. You don't need to contact us or ask permission. You just need to [add liquidity to a liquidity pool](../products/pancakeswap-exchange/pancakeswap-pools.md) - that's it. Traders can then trade your token by entering your token's contract address.
+Anybody can "list" any BEP-20 network token on ZexdexApp. You don't need to contact us or ask permission. You just need to [add liquidity to a liquidity pool](../products/zexdex/pancakeswap-pools.md) - that's it. Traders can then trade your token by entering your token's contract address.
 
 ### How can I add my token to the default list?
 

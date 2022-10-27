@@ -4,7 +4,7 @@ description: Receive the same juicy CAKE rewards by farming on other blockchains
 
 # Crosschain Farming
 
-<figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/images/image (9).png" alt=""><figcaption></figcaption></figure>
 
 With the multichain deployment, ZexdexApp is now bringing the iconic yield farming experience from ZexdexApp farms to users on other blockchains. Yield Farms allow users to earn CAKE while supporting ZexdexApp by staking LP Tokens.
 

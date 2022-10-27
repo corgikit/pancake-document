@@ -1,6 +1,6 @@
 # CAKE Tokenomics
 
-![](../../.gitbook/assets/220811-en.png)
+![](../../.gitbook/images/220811-en.png)
 
 ## **Emission rate** <a href="#emission-rate" id="emission-rate"></a>
 

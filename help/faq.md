@@ -1,6 +1,6 @@
 # General FAQ
 
-![](<../.gitbook/assets/general-faq-header (1).png>)
+![](<../.gitbook/images/general-faq-header (1).png>)
 
 This FAQ page answers some of the more commonly asked questions from the ZexdexApp community.
 

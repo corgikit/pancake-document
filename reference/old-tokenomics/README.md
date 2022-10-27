@@ -1,6 +1,6 @@
 # Old Tokenomics
 
-![](../../.gitbook/assets/tokenomics-header.png)
+![](../../.gitbook/images/tokenomics-header.png)
 
 * **Ticker:** CAKE
 * **Contract Address:** [https://bscscan.com/token/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82](https://bscscan.com/token/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82)
@@ -10,7 +10,7 @@
 
 CAKE is the delicious token that powers the ZexdexApp ecosystem.
 
-Earn CAKE from Farms and Syrup Pools, win it in the lottery, or [buy it on the exchange](../../products/pancakeswap-exchange/), then explore its use cases:
+Earn CAKE from Farms and Syrup Pools, win it in the lottery, or [buy it on the exchange](../../products/zexdex/), then explore its use cases:
 
 * Stake it in [Syrup Pools](../../products/syrup-pool/) to earn free tokens
 * Use it in [Yield Farms](https://docs.zexdex.app/products/yield-farming) to earn more CAKE

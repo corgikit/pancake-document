@@ -1,6 +1,6 @@
 # 🔄 StableSwap
 
-<figure><img src="../../.gitbook/assets/docs masthead.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/images/docs masthead.png" alt=""><figcaption></figcaption></figure>
 
 StableSwap on ZexdexApp is a feature to trade stable pairs with a lower slippage based on an invariant curve slippage function. It is designed to swap specific assets that are priced closely – such as USD stablecoins (e.g. HAY, BUSD and USDT) or liquid staking tokens (e.g. stkBNB and aBNBc).
 

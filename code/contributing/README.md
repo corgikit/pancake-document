@@ -4,7 +4,7 @@ description: We appreciate you showing an interest in supporting ZexdexApp!
 
 # Contributing
 
-![](../../.gitbook/assets/developers-header.png)
+![](../../.gitbook/images/developers-header.png)
 
 ZexdexApp is a project that is open-source. This section is meant to help you through your initial interactions with the z-team if you wish to contribute to the project.
 

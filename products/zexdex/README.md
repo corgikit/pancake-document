@@ -1,6 +1,6 @@
 # 🔄 Exchange
 
-![](../../.gitbook/assets/pancakeswap-exchange-header.png)
+![](../../.gitbook/images/pancakeswap-exchange-header.png)
 
 ZexdexApp is an Automated Market Maker (AMM), and the Exchange is at the heart of ZexdexApp. ZexdexApp is the leading AMM on the BNB Smart Chain, and as statistics tell, the most popular Decentralized Exchange (DEX) ever!
 

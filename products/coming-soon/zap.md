@@ -4,7 +4,7 @@ description: Simple liquidity provisioning with only one click
 
 # Zap
 
-<img src="../../.gitbook/assets/zap-0.png" alt="" data-size="original">
+<img src="../../.gitbook/images/zap-0.png" alt="" data-size="original">
 
 ### What is Zap? <a href="#h.lv839zkjvd8q" id="h.lv839zkjvd8q"></a>
 
@@ -18,7 +18,7 @@ Zap enables simple liquidity provision. Add liquidity with only one token and on
 
 By default, the Zap feature is turned on for every user. If you don’t see the new Zap UI when adding or removing liquidity, please enable it in the settings panel. You can bring up the settings panel by clicking the cog icon.
 
-![](../../.gitbook/assets/zap-8.png)
+![](../../.gitbook/images/zap-8.png)
 
 {% hint style="warning" %}
 Note: Currently, the Zap feature is in beta. Please note that It does not support some tokens, such as tokens with fees on transfers. If you experience any issue while adding or removing liquidity, please disable it in the settings panel.
@@ -28,33 +28,33 @@ Note: Currently, the Zap feature is in beta. Please note that It does not suppor
 
 Visit the [Liquidity page](https://www.google.com/url?q=https://zexdex.app/liquidity\&sa=D\&source=editors\&ust=1656322371440119\&usg=AOvVaw2VaY8U4dIbBSuWStNyOgok), and choose “Add Liquidity”.
 
-Pick the trading pair you want to provide liquidity to by selecting two input tokens, checkout [Liquidity guide](https://www.google.com/url?q=https://docs.zexdex.app/products/pancakeswap-exchange/liquidity-guide\&sa=D\&source=editors\&ust=1656322371440606\&usg=AOvVaw3F7VpDtyG1aV8GnmzzfMIs) to learn more.
+Pick the trading pair you want to provide liquidity to by selecting two input tokens, checkout [Liquidity guide](https://www.google.com/url?q=https://docs.zexdex.app/products/zexdex/liquidity-guide\&sa=D\&source=editors\&ust=1656322371440606\&usg=AOvVaw3F7VpDtyG1aV8GnmzzfMIs) to learn more.
 
-![](<../../.gitbook/assets/zap-1 (2).png>)
+![](<../../.gitbook/images/zap-1 (2).png>)
 
 Click the “Add Liquidity” button to proceed.
 
 If the token in the trading pair you are adding liquidity to has a balance in your wallet. The checkbox for that token will be automatically checked. If you have both the tokens have a balance in your wallet, both checkboxes will be checked.
 
-![](../../.gitbook/assets/zap-6.png)
+![](../../.gitbook/images/zap-6.png)
 
 ### Zap using one token <a href="#h.oc5fxca1vzfj" id="h.oc5fxca1vzfj"></a>
 
 You can add liquidity using only one token in the trading pair. Simple check only one checkbox for the token you wish to use. Zap will automatically swap half of the checked tokens into another token in the trading pair before adding liquidity. You will see a warning message indicating which token will be converted.
 
-![](../../.gitbook/assets/zap-3.png)
+![](../../.gitbook/images/zap-3.png)
 
 {% hint style="info" %}
 If the price impact is too high, Zap will protect you by slippage. Click “Reduce TOKEN” to reduce it to the preferred limit.
 {% endhint %}
 
-![](../../.gitbook/assets/zap-7.png)
+![](../../.gitbook/images/zap-7.png)
 
 ### Zap using two tokens with imbalanced amounts <a href="#h.4k2b7plmt9t0" id="h.4k2b7plmt9t0"></a>
 
 If both tokens are checked, the amounts of the input tokens don't match a 50/50 split. Zap balancing will be introduced. You will see a message of “Some of your Token A will be converted to Token B”.
 
-![](<../../.gitbook/assets/zap-2 (1).png>)
+![](<../../.gitbook/images/zap-2 (1).png>)
 
 {% hint style="info" %}
 If you don’t want Zap to balance the number of tokens before adding liquidity, simply click “Don’t Convert”. In this case, Zap will adjust the number of input tokens to match a 50/50 split instead of trying to swap and rebalance.
@@ -71,7 +71,7 @@ You will see:
 3. How the input tokens are traded in order to match a 50/50 split.
 4. The slippage tolerance you are using.
 
-![](../../.gitbook/assets/zap-4.png)
+![](../../.gitbook/images/zap-4.png)
 
 ### Zap out (Remove Liquidity) <a href="#h.whuk5lgc371r" id="h.whuk5lgc371r"></a>
 
@@ -83,4 +83,4 @@ Zap also enables you to receive one single token in the trading pair when removi
 
 Under the “You Will Receive” section, you can uncheck the token you don’t want to receive. Zap will automatically swap and convert 100% of the returns into the checked token when removing liquidity.
 
-![](../../.gitbook/assets/zap-5.png)
+![](../../.gitbook/images/zap-5.png)

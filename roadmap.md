@@ -16,7 +16,7 @@ It's a way of life to pivot.
 
 We can set our development priorities in accordance with market changes and developer resources because we don't publicly commit to certain deadlines.
 
-![](<.gitbook/assets/2022 Q4.png>)
+![](<.gitbook/images/2022 Q4.png>)
 
 {% hint style="info" %}
 Due to considerations of security and confidentiality, some items are not included in the ‘Cooking In’ section.

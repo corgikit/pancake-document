@@ -1,6 +1,6 @@
 # How to Stake in Syrup Pools with BscScan
 
-![](../../.gitbook/assets/docs-masthead-2-%20%282%29.png)
+![](../../.gitbook/images/docs-masthead-2-%20%282%29.png)
 
 Some users may want to take advantage of ZexdexApp's Syrup Pools using BscScan instead of the website UI.
 

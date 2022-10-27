@@ -15,11 +15,11 @@
 
 ### The people's choice
 
-On Binance Smart Chain, ZexdexApp is the top decentralized exchange with the biggest trading volumes. (sources: [1](https://www.coingecko.com/en/exchanges/decentralized) [2](https://coinmarketcap.com/rankings/exchanges/dex/)).
+On BNB Smart Chain, ZexdexApp is the top decentralized exchange with the biggest trading volumes. (sources: [1](https://www.coingecko.com/en/exchanges/decentralized) [2](https://coinmarketcap.com/rankings/exchanges/dex/)).
 
 ### Low fees
 
-Why would you want to spend more? The blockchain used by ZexdexApp, Binance Smart Chain, has substantially less transaction fees than Ethereum or Bitcoin.\
+Why would you want to spend more? The blockchain used by ZexdexApp, BNB Smart Chain, has substantially less transaction fees than Ethereum or Bitcoin.\
 You win twice because the trading fees are lower than those charged by other leading decentralized exchanges.
 
 ### Decentralized

@@ -2,9 +2,9 @@
 
 ## Apply for NFT Marketplace Listing
 
-![](../.gitbook/assets/nft-masthead.png)
+![](../.gitbook/images/nft-masthead.png)
 
-NFT collection creators can get awareness for their project on Binance Smart Chain's most well-known NFT marketplace and receive creator royalties on transactions made on ZexdexApp.
+NFT collection creators can get awareness for their project on BNB Smart Chain's most well-known NFT marketplace and receive creator royalties on transactions made on ZexdexApp.
 
 [Apply for Listing on ZexdexApp NFT Market](https://docs.google.com/forms/d/e/1FAIpQLSfDPvSC9eJj8VcB9PjdxNkCdwMYCbymL28J55XFs7HpEEARRA/viewform/)
 

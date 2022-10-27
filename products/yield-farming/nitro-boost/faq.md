@@ -1,6 +1,6 @@
 # FAQ
 
-![](../../../.gitbook/assets/how-bCAKE-FAQ.png)
+![](../../../.gitbook/images/how-bCAKE-FAQ.png)
 
 ### How are the bCAKE multipliers calculated?
 
@@ -25,9 +25,9 @@ The multiplier is calculated using the following method:
 
 Here are some examples of the calculation:
 
-![](../../../.gitbook/assets/bCAKE-params.png)
+![](../../../.gitbook/images/bCAKE-params.png)
 
-![](../../../.gitbook/assets/bCAKE-cal.png)
+![](../../../.gitbook/images/bCAKE-cal.png)
 
 {% hint style="info" %}
 **TL;DR**
@@ -55,7 +55,7 @@ In order to ensure fairness and prevent potential abuse and cheating using out-o
 
 ### Where are my CAKE rewards after activating or unsetting the booster?
 
-![](../../../.gitbook/assets/bCAKE-has-pending-balance.png)
+![](../../../.gitbook/images/bCAKE-has-pending-balance.png)
 
 While farming with bCAKE - Farm Boosters, some of your harvested CAKE rewards may be temporally stored in the farm booster contract. Whenever this happens, you will see a dotted line under your "CAKE EARNED", indicating that apart from the number shown, you have more CAKE rewards in the farm booster contract.
 
@@ -63,16 +63,16 @@ While farming with bCAKE - Farm Boosters, some of your harvested CAKE rewards ma
 
 To harvest them right now, simply click the "Harvest" button.
 
-![](../../../.gitbook/assets/bCAKE-has-pending-balance-tooltip.png)
+![](../../../.gitbook/images/bCAKE-has-pending-balance-tooltip.png)
 
 To check the number of extra rewards in the farm booster contract, hover or long-press the number with the dotted line.
 
 ### Why I'm not able to boost a farm
 
 1. Farm booster is only available for selected farms. More farms will be made available in the future. For now, look for the "Boosted" tag on the UI.\
-   ![](<../../../.gitbook/assets/bCAKE-boost-tag (1).png>)
+   ![](<../../../.gitbook/images/bCAKE-boost-tag (1).png>)
 2. There is a limit to the number of farms that are able to boost simultaneously. To check the number of remaining boosters, refer to the panel on top. \
-   ![](<../../../.gitbook/assets/bCAKE-farm-number-limit (1).png>)\
+   ![](<../../../.gitbook/images/bCAKE-farm-number-limit (1).png>)\
    You will need to unset an active booster in order to activate boosters on other farms.
 3. Make sure you've completed the one-time setup.
 4. Due to the involvement of multiple contracts, some of the contract interactions require slightly more gas tokens (BNB). So please make sure you have enough BNB in your wallet.

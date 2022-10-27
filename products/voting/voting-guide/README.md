@@ -1,6 +1,6 @@
 # How to Vote
 
-![](../../../.gitbook/assets/how-to-voting-header.png)
+![](../../../.gitbook/images/how-to-voting-header.png)
 
 Participating in governance voting is easy, and it is absolutely **FREE**. You don't even need to pay gas fees! Learn more about how to vote, catch the next proposal and cast your vote.
 
@@ -14,7 +14,7 @@ Alternatively, you can visit [ZexdexApp's native voting portal](https://voting.z
 
 #### Read and pick the choice to vote
 
-![the proposal page](../../../.gitbook/assets/how-to-vote-1.png)
+![the proposal page](../../../.gitbook/images/how-to-vote-1.png)
 
 On the proposal page. You will find:
 
@@ -26,11 +26,11 @@ On the proposal page. You will find:
 
 Read the proposal carefully and click the choice you want to vote on.
 
-![](../../../.gitbook/assets/how-to-vote-2.png)
+![](../../../.gitbook/images/how-to-vote-2.png)
 
 #### Confirm and cast your vote
 
-![](../../../.gitbook/assets/how-to-vote-6.png)
+![](../../../.gitbook/images/how-to-vote-6.png)
 
 Confirm all the details and click "Confirm Vote", then confirm in your wallet to sign the message.&#x20;
 
@@ -42,7 +42,7 @@ Done, you just successfully cast your vote.
 {% tab title="Check the voting power" %}
 Before casting your vote, you will see a "Confirm Vote" window.
 
-![](../../../.gitbook/assets/how-to-vote-4.png)
+![](../../../.gitbook/images/how-to-vote-4.png)
 
 In this window, you can double-check the following items:
 
@@ -51,7 +51,7 @@ In this window, you can double-check the following items:
 
 If you are not sure about how the voting power is calculated, click on the ">" to bring up the detailed breakdown.
 
-![](<../../../.gitbook/assets/how-to-vote-5 (2).png>)
+![](<../../../.gitbook/images/how-to-vote-5 (2).png>)
 
 Please note that only CAKE held in the following places will contribute to the total number of voting power:
 
@@ -67,12 +67,12 @@ CAKE held in other places does not contribute to your voting power.
 {% tab title="Check the snapshot block" %}
 #### Check the snapshot block
 
-![](../../../.gitbook/assets/how-to-vote-3.png)
+![](../../../.gitbook/images/how-to-vote-3.png)
 
 Voting power is calculated based on a snapshot taken on the snapshot block. Therefore, purchasing or depositing more CAKE after the proposal is posted is not going to increase the voting power for that particular proposal.
 
 If you want to know the exact time of the snapshot block. Simple click on the block number and look for the timestamp on the BscScan page.
 
-![](../../../.gitbook/assets/how-to-vote-7.png)
+![](../../../.gitbook/images/how-to-vote-7.png)
 {% endtab %}
 {% endtabs %}
