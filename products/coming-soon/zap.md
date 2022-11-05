@@ -10,9 +10,9 @@ description: Simple liquidity provisioning with only one click
 
 Zap enables simple liquidity provision. Add liquidity with only one token and one single click, without manual swapping or token balancing.
 
-* Add liquidity with only one token: You can add liquidity using only one token in the trading pair. Zap will automatically perform swaps using the one token you provide and automatically balance the trading pair to a 50/50 split before adding liquidity.
-* Add liquidity with an imbalanced number of tokens in the trading pair: You can add liquidity even if the number of the tokens you provide in the trading pair is not perfectly balanced with the current pool. For example 30:70, which differs from the default pool weight of 50:50. Zap will automatically rebalance the tokens into a 50/50 split before adding liquidity.
-* Remove liquidity and choose what token(s) you want to receive: When removing liquidity, Zap allows you to receive only one token in the trading pair. Zap will automatically perform swaps before returning your tokens.
+- Add liquidity with only one token: You can add liquidity using only one token in the trading pair. Zap will automatically perform swaps using the one token you provide and automatically balance the trading pair to a 50/50 split before adding liquidity.
+- Add liquidity with an imbalanced number of tokens in the trading pair: You can add liquidity even if the number of the tokens you provide in the trading pair is not perfectly balanced with the current pool. For example 30:70, which differs from the default pool weight of 50:50. Zap will automatically rebalance the tokens into a 50/50 split before adding liquidity.
+- Remove liquidity and choose what token(s) you want to receive: When removing liquidity, Zap allows you to receive only one token in the trading pair. Zap will automatically perform swaps before returning your tokens.
 
 ### Enable Zap <a href="#h.8q1zrb4afp7i" id="h.8q1zrb4afp7i"></a>
 
@@ -26,9 +26,9 @@ Note: Currently, the Zap feature is in beta. Please note that It does not suppor
 
 ### Zap In (Add Liquidity) <a href="#h.xp3to7fwu7s6" id="h.xp3to7fwu7s6"></a>
 
-Visit the [Liquidity page](https://www.google.com/url?q=https://zexdex.app/liquidity\&sa=D\&source=editors\&ust=1656322371440119\&usg=AOvVaw2VaY8U4dIbBSuWStNyOgok), and choose “Add Liquidity”.
+Visit the [Liquidity page](https://www.google.com/url?q=https://zexdex.app/liquidity&sa=D&source=editors&ust=1656322371440119&usg=AOvVaw2VaY8U4dIbBSuWStNyOgok), and choose “Add Liquidity”.
 
-Pick the trading pair you want to provide liquidity to by selecting two input tokens, checkout [Liquidity guide](https://www.google.com/url?q=https://docs.zexdex.app/products/zexdex/liquidity-guide\&sa=D\&source=editors\&ust=1656322371440606\&usg=AOvVaw3F7VpDtyG1aV8GnmzzfMIs) to learn more.
+Pick the trading pair you want to provide liquidity to by selecting two input tokens, checkout [Liquidity guide](https://www.google.com/url?q=https://docs.zexdex.app/products/zexdex/liquidity-guide&sa=D&source=editors&ust=1656322371440606&usg=AOvVaw3F7VpDtyG1aV8GnmzzfMIs) to learn more.
 
 ![](<../../.gitbook/images/zap-1 (2).png>)
 
@@ -77,7 +77,7 @@ You will see:
 
 Zap also enables you to receive one single token in the trading pair when removing liquidity.
 
-1. Visit the[ ](https://www.google.com/url?q=https://exchange.zexdex.app/%23/pool\&sa=D\&source=editors\&ust=1656322371442758\&usg=AOvVaw2ZJPj\_97-YuUMQjQbYbfN4)[Liquidity page](https://www.google.com/url?q=https://exchange.zexdex.app/%23/pool\&sa=D\&source=editors\&ust=1656322371442948\&usg=AOvVaw39k9SD0FIdLv9GzmEv10Xz).
+1. Visit the[ ](https://zexdex.app/pools/)[Liquidity page](https://zexdex.app/pools/).
 2. Click on the pair you want to remove liquidity under “Your Liquidity".
 3. Click “Remove”. A new pop-up will appear.
 

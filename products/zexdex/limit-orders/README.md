@@ -1,5 +1,5 @@
 # 📝Limit Orders
 
-![](../../../.gitbook/images/limit\_orders\_header.png)
+![](../../../.gitbook/images/limit_orders_header.png)
 
-Limit orders allow you to get your swaps at desired prices by leaving instructions to fill buy or sell orders at specific prices. The trade will only be executed if the price on ZexdexApp reaches your limit price (or better).
+Limit orders enable you to obtain swaps at predetermined prices by leaving instructions to fill buy or sell orders at specific prices. Only if the price on ZexdexApp reaches your limit price will the trade be executed (or better).

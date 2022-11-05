@@ -1,27 +1,25 @@
 # Click Here for Help
 
-
-
 ![](../.gitbook/images/help-area-header.png)
 
-If you find yourself stuck, if something isn't working like it's meant to, or you're not sure if something has worked or not, this help section may be able to, well, help.
+This help section may be able to, well, assist if you find yourself stuck, if something isn't functioning as it should, or if you're unsure if something has worked or not.
 
 ## Help sections
 
-We have broken the help topic down into sections to help you find what you're after. Below is an overview on what you'll find.
+We've divided the assistance subject into sections to make it easier to discover what you're looking for. What you'll discover is summarized here.
 
 ### Troubleshooting Errors
 
-The [Troubleshooting Errors page](https://docs.zexdex.app/help/troubleshooting) has a collection of errors users may run into while using ZexdexApp. It shows the problem with both a solution to the problem, and a reason explaining why the problem happened.
+The [Troubleshooting Issues page](../help/troubleshooting) contains a list of potential errors that users may encounter when using ZexdexApp. It depicts the problem along with a remedy and an explanation of why the problem occurred.
 
 ### General FAQ
 
-The [General FAQ page](https://docs.zexdex.app/help/faq) answers the common questions we get from ZexdexApp users. The answers to these questions give advice, an explanation, or a link to a useful resource.
+The [General FAQ page](../help/faq) addresses the most frequently asked questions from ZexdexApp users. The responses to these questions include advice, explanations, or a link to a relevant resource.
 
 ### Other Guides
 
-There are also a number of guides in the help topic that will walk you through technical problems. We add guides when a problem that may be difficult to solve comes up often, so if you're having trouble be sure to check here for a guide to your problem.
+There are also other manuals in the help section that will assist you through technical issues. We add guidelines when a problem that may be difficult to address arises frequently, so if you're experiencing problems, be sure to check here for a solution.
 
 ## Seeking support
 
-ZexdexApp doesn't have a dedicated support service. Instead, if you find yourself with a problem that has no answer here, you can ask for help on [ZexdexApp's Telegram channel](https://t.me/pancakeswap). For your safety, make sure you read the notice about scams if it's your first time on our Telegram.
+There is no specific support service for ZexdexApp. If you have an issue that does not have an answer here, you can seek assistance on [ZexdexApp's Telegram channel](https://t.me/ZexdexEcosystem/). If this is your first time on our Telegram, please read the warning regarding scammers.

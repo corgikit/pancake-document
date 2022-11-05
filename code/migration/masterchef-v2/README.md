@@ -14,7 +14,7 @@ If you are currently using ZexdexApp MasterChef ([0x73feaa1eE314F8c655E354234017
 
 #### Deposit&#x20;
 
-If you are currently using the `enterStaking(uint256 _amount)` on the current ZexdexApp MasterChef. You need to migrate to the new CAKE pool contract. Check out the related documentation [here](../cake-syrup-pool.md).
+If you are currently using the `enterStaking(uint256 _amount)` on the current ZexdexApp MasterChef. You need to migrate to the new CAKE pool contract. Check out the related documentation [here](../cake-staking-pool.md).
 
 The deposit function for the farm pools is unchanged. However, you will need to upgrade the MasterChef address and the `pid` , check out the [list of farms](list-of-farms.md) for the list of new `pids` on MasterChef v2.
 
@@ -28,7 +28,7 @@ Regular farm pools: the regular LP tokens farms. For example CAKE-BNB, BNB-BUSD,
 
 #### Withdraw
 
-If you are currently using the `leaveStaking(uint256 _amount)` on the current ZexdexApp MasterChef. You need to migrate to the new CAKE pool contract. Check out the related documentation [here](../cake-syrup-pool.md).
+If you are currently using the `leaveStaking(uint256 _amount)` on the current ZexdexApp MasterChef. You need to migrate to the new CAKE pool contract. Check out the related documentation [here](../cake-staking-pool.md).
 
 The withdraw function for the farm pools is unchanged. However, you will need to update the MasterChef address and the `pid` , check out the [list of farms](list-of-farms.md) for the list of new `pids` on MasterChef v2.
 

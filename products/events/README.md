@@ -6,7 +6,7 @@ The ZexdexApp Mini-Program in the Binance application is a collaboration with Bi
 
 The ZexdexApp Mini Program is directly accessible from the Binance mobile application for Binance users to try, experience and fall in love with our decentralized platform. Together with the Binance DeFi Wallet, users can create a wallet, transfer funds and use ZexdexApp — all within the Binance mobile application!
 
-![](https://lh6.googleusercontent.com/LFoWSjb-KYXpww\_tYmGu0C-t3M5RhmGkz4O46y7XGTuUnmA7fDXOxsVowcmmNjv0bYE3yZ9B0GJWqFmEJIeP1gFacxqwO4LOVxwKqxsvg2H-CS9a--pQIYdKjTiPIguZnZXdJmrny4da0z-MCY7PvHE)
+![](https://lh6.googleusercontent.com/LFoWSjb-KYXpww_tYmGu0C-t3M5RhmGkz4O46y7XGTuUnmA7fDXOxsVowcmmNjv0bYE3yZ9B0GJWqFmEJIeP1gFacxqwO4LOVxwKqxsvg2H-CS9a--pQIYdKjTiPIguZnZXdJmrny4da0z-MCY7PvHE)
 
 ## Why is this important for ZexdexApp?
 
@@ -24,4 +24,4 @@ Before adding more features, we are focused on improving the overall performance
 
 This partnership will also bring enhanced access and diversity of offerings unavailable up to this point. An example, easily envisaged, are BEP-20 assets that are not listed on Binance CEX, but will still be available to users within the Binance app with a quick search and jump to the ZexdexApp Mini Program. Imagine the value and users this will bring!
 
-Check out [how to use the ZexdexApp Mini-Program](https://docs.zexdex.app/products/pancakeswap-mini-program/how-to-use-pancakeswap-mini-program) and [the FAQ](https://docs.zexdex.app/products/pancakeswap-mini-program/mini-program-faq)!
+Check out [how to use the ZexdexApp Mini-Program](https://docs.zexdex.app/products/panzDEXswap-mini-program/how-to-use-panzDEXswap-mini-program) and [the FAQ](https://docs.zexdex.app/products/panzDEXswap-mini-program/mini-program-faq)!

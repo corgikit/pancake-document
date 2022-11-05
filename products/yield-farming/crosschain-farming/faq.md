@@ -4,11 +4,11 @@
 
 ### What should I do on ZexdexApp on other blockchains?
 
-Provide liquidity, trade and farm as you always have been. If you are a multichain user already, remember to provide liquidity on ZexdexApp on other blockchains that we've deployed on (like Ethereum), as we have CAKE rewards on BNB Smart Chain for you, allowing you to earn even more CAKE without bridging those assets over!
+Provide liquidity, trade and farm as you always have been. If you are a multichain user already, remember to provide liquidity on ZexdexApp on other blockchains that we've deployed on (like Ethereum), as we have zDEX rewards on BNB Smart Chain for you, allowing you to earn even more zDEX without bridging those assets over!
 
 ### **Will there be more pairs?**
 
-Yes, but we will be deploying in steps to ensure we prioritize the safety of user funds and CAKE inflation. Do let us know in the community chats what you think should be added to ZexdexApp on other blockchains, as well as what other blockchains we should deploy ZexdexApp on.
+Yes, but we will be deploying in steps to ensure we prioritize the safety of user funds and zDEX inflation. Do let us know in the community chats what you think should be added to ZexdexApp on other blockchains, as well as what other blockchains we should deploy ZexdexApp on.
 
 ### **Why the gas cost for staking LP tokens is high?**
 
@@ -20,19 +20,19 @@ Plus, there are other fees (mostly gas costs) involved in cross-chain farming. C
 
 All cross-chain transactions will take around 30 minutes to complete. It is because:
 
-* Transactions have to be executed on both the farming blockchain (like Ethereum) and the BNB Chain.
-* Delivering cross-chain messages takes time.
-* To ensure safety and all the data are synced and consistent between different blockchains.
+- Transactions have to be executed on both the farming blockchain (like Ethereum) and the BNB Chain.
+- Delivering cross-chain messages takes time.
+- To ensure safety and all the data are synced and consistent between different blockchains.
 
-### **Where are my harvested CAKE rewards?**
+### **Where are my harvested zDEX rewards?**
 
-Your harvested CAKE will be distributed on BNB Smart Chain. Please switch the blockchain network in your wallet to check the balance of CAKE.
+Your harvested zDEX will be distributed on BNB Smart Chain. Please switch the blockchain network in your wallet to check the balance of zDEX.
 
 ### **I can't harvest because my wallet doesn't support switching between different blockchains!**
 
 Please try using a different wallet app that supports multichain and chain switching.
 
-Please note that staking and unstaking LP tokens will also harvest all the earned CAKE to your wallet on BNB Smart Chain. Therefore if you don't want to use a different wallet app, simply stake more, or unstake a tiny amount of LP tokens to harvest your earned CAKE.
+Please note that staking and unstaking LP tokens will also harvest all the earned zDEX to your wallet on BNB Smart Chain. Therefore if you don't want to use a different wallet app, simply stake more, or unstake a tiny amount of LP tokens to harvest your earned zDEX.
 
 ### Are there any fees when I do crosschain farming?
 
@@ -68,8 +68,8 @@ messagingFee = feeBase + message.length * feePerByte;
 
 You may find the variables in the formula with in the message bus contract:
 
-* Ethereum: `0x4066d196a423b2b3b8b054f4f40efb47a74e200c`
-* BNB Chain: `0x95714818fdd7a5454f73da9c777b3ee6ebaeea6b`
+- Ethereum: `0x4066d196a423b2b3b8b054f4f40efb47a74e200c`
+- BNB Chain: `0x95714818fdd7a5454f73da9c777b3ee6ebaeea6b`
 
 **5 - The starter fund**
 
@@ -77,7 +77,7 @@ This is not strictly a "fee".&#x20;
 
 For every new user who started doing ZexdexApp cross-chain farming. In the first “stake” transaction, we will deposit 0.005 BNB into their BNB Chain wallet. The corresponding amount of native tokens on the farming chain (like ETH on Ethereum) will be charged from the deposit transaction, using the market rate provided by the price oracle.
 
-This is to help users start their BNB Chain journey with ease. We understand the painfulness of having all the harvested CAKE but not being able to explore the vivid ZexdexApp ecosystem without finding another way to acquire BNB for gas.
+This is to help users start their BNB Chain journey with ease. We understand the painfulness of having all the harvested zDEX but not being able to explore the vivid ZexdexApp ecosystem without finding another way to acquire BNB for gas.
 
 This fee only charges once upon the first "stake" transaction.
 
@@ -85,13 +85,13 @@ This fee only charges once upon the first "stake" transaction.
 
 _updated on Oct 10 2022_
 
-For now, Chefs have diverted 0.0189 CAKE per block from the CAKE pool to all crosschain farms.&#x20;
+For now, Chefs have diverted 0.0189 zDEX per block from the zDEX pool to all crosschain farms.&#x20;
 
 Here is the emissions breakdown:
 
-|                          | Multiplier | CAKE per block |
+|                          | Multiplier | zDEX per block |
 | ------------------------ | ---------- | -------------- |
-| **CAKE Pool**            | -          | **8.9811**     |
+| **zDEX Pool**            | -          | **8.9811**     |
 | **All Crosschain Farms** | -          | **0.0189**     |
 | Ethereum ETH/USDC        | 0.5x       | 0.0105         |
 | Ethereum ETH/USDT        | 0.2x       | 0.0042         |
@@ -99,7 +99,7 @@ Here is the emissions breakdown:
 
 ### What happened during the deposit, harvest and withdrawal?
 
-ZexdexApp crosschain farming is like using a "stand-in" LP token to farm on the BNB Chain, with the same ZexdexApp MasterChef. The CAKE rewards are calculated and distributed on BNB Chain, controlled and guarded by the same MasterChef contract.
+ZexdexApp crosschain farming is like using a "stand-in" LP token to farm on the BNB Chain, with the same ZexdexApp MasterChef. The zDEX rewards are calculated and distributed on BNB Chain, controlled and guarded by the same MasterChef contract.
 
 #### Upon Deposit:
 
@@ -110,11 +110,11 @@ ZexdexApp crosschain farming is like using a "stand-in" LP token to farm on the 
 
 #### Upon Harvesting:
 
-Since CAKE rewards are calculated and distributed on BNB Chain. Users can claim their CAKE rewards with a single BNB Chain transaction without the need for cross-chain operations.
+Since zDEX rewards are calculated and distributed on BNB Chain. Users can claim their zDEX rewards with a single BNB Chain transaction without the need for cross-chain operations.
 
 #### Upon Withdrawal:
 
 1. Users request withdrawing LP tokens on farming blockchains (like Ethereum).
 2. Celer message bus is utilised to deliver the "withdraw" message to BNB Chain.
-3. An executor on BNB Chain withdraws the farming tokens from the farms, burns those tokens, transfers the earned CAKE to users, and utilises the Celer message bus to deliver the confirmation message back to the original farming blockchain.
+3. An executor on BNB Chain withdraws the farming tokens from the farms, burns those tokens, transfers the earned zDEX to users, and utilises the Celer message bus to deliver the confirmation message back to the original farming blockchain.
 4. An executor on the farming blockchain confirms everything and then releases the LP tokens from the vault contracts.

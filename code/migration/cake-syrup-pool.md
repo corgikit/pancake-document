@@ -1,8 +1,8 @@
 ---
-description: Migrate to new CAKE Syrup Pool
+description: Migrate to new CAKE Staking Pool
 ---
 
-# CAKE Syrup Pool
+# CAKE Staking Pool
 
 The new CakePool is a new $CAKE staking contract built based on the CakeVault (the current auto CAKE pool) and designed to work with ZexdexApp MasterChef v2 to provide "stake $CAKE, earn $CAKE" functionality while offering more features such as fixed-term staking. The current Manual CAKE pool will be retired after the migration.
 

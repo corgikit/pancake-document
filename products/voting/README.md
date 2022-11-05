@@ -4,7 +4,7 @@
 
 Voting gives a voice to the ZexdexApp community, letting the community have a say in how ZexdexApp develops into the future.
 
-Check out [ZexdexApp's native voting portal](https://voting.zexdex.app/?\_gl=1\*pc8o0h\*\_ga\*MTUzNDEzNDQxMy4xNjAwNzkzNDM4\*\_ga\_334KNG3DMQ\*MTYwNDMwMTk4Ni42MC4xLjE2MDQzMDM3MDIuMA..#/) on the ZexdexApp website.
+Check out [ZexdexApp's native voting portal](https://voting.zexdex.app/?_gl=1*pc8o0h*_ga*MTUzNDEzNDQxMy4xNjAwNzkzNDM4*_ga_334KNG3DMQ*MTYwNDMwMTk4Ni42MC4xLjE2MDQzMDM3MDIuMA..#/) on the ZexdexApp website.
 
 **Core** - proposals posted by the ZexdexApp team. The results will be actioned.
 

@@ -1,7 +1,7 @@
-# 🖼 NFT Market
+# 🖼 NFT Marketplaces
 
 More info coming soon.
 
-![](../.gitbook/images/screen-shot-2021-09-29-at-21.11.40.png)
+![](../.gitbook/images/nft-marketplace-header.png)
 
 [Apply to list your collection on the NFT Market](../contact-us/nft-market-applications.md)\

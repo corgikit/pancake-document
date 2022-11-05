@@ -1,4 +1,4 @@
-# Lottery
+# zDex-based Lottery
 
 {% content-ref url="lottery-contract.md" %}
 [lottery-contract.md](lottery-contract.md)

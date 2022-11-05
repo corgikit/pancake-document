@@ -14,9 +14,9 @@ In order to keep earning staking rewards, you will need to migrate your farms an
 You need to migrate if you are:
 
 * Farming on ZexdexApp **Farms**.
-* Staking in ZexdexApp **CAKE Syrup Pools** (Manual, Auto, IFO).
+* Staking in ZexdexApp **CAKE Staking Pools** (Manual, Auto, IFO).
 
-\*other Syrup Pools aren’t affected
+\*other Staking Pools aren’t affected
 {% endhint %}
 
 ## How to migrate?
@@ -29,7 +29,7 @@ Go to [https://zexdex.app/migration](https://zexdex.app/migration), and connect 
 
 ### 2. Unstake from the old farms
 
-There are two steps in the migration helper. In the first step, you should see a list of three CAKE syrup pools and farms you are currently staking.
+There are two steps in the migration helper. In the first step, you should see a list of three CAKE staking pools and farms you are currently staking.
 
 ![](<../../.gitbook/images/migration-helper-steps-guide-3 (2).png>)
 
@@ -41,19 +41,19 @@ After unstaking, click "**Go to Stake**" to proceed to step 2.
 
 ### 3. Stake your LP tokens and CAKE into the new farms and pools.
 
-Here you should see the brand new CAKE syrup pool and the new farms. Before staking, you will need to enable them.
+Here you should see the brand new CAKE staking pool and the new farms. Before staking, you will need to enable them.
 
 ![](<../../.gitbook/images/migration-helper-steps-guide-5 (1).png>)
 
-Click "**Enable**" to enable staking on each of the farms and the CAKE syrup pool. If you are using a mobile device, please click the “**v**” (downward arrow) to expand the card while looking for the "**Enable**" button.
+Click "**Enable**" to enable staking on each of the farms and the CAKE staking pool. If you are using a mobile device, please click the “**v**” (downward arrow) to expand the card while looking for the "**Enable**" button.
 
 After enabling, you will be able to start staking in the pool and farms.
 
 {% tabs %}
-{% tab title="CAKE Syrup Pool" %}
+{% tab title="CAKE Staking Pool" %}
 ![](<../../.gitbook/images/migration-helper-steps-guide-7 (2).png>)
 
-For CAKE syrup pool. Please:
+For CAKE staking pool. Please:
 
 1. Click "**Flexible**" under the "Stake CAKE" section.
 2. Enter the amount of CAKE you want to stake.
@@ -62,7 +62,7 @@ For CAKE syrup pool. Please:
 
 
 {% hint style="info" %}
-The locked (fixed-term) staking option will become available a few days after the migration. You will be able to convert your flexible staking position to a locked one. To learn more about the new CAKE syrup pool with fixed-term staking, please check out [this doc](../../products/coming-soon/new-cake-pool/).
+The locked (fixed-term) staking option will become available a few days after the migration. You will be able to convert your flexible staking position to a locked one. To learn more about the new CAKE staking pool with fixed-term staking, please check out [this doc](../../products/coming-soon/new-cake-pool/).
 {% endhint %}
 {% endtab %}
 

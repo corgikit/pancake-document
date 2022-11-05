@@ -1,47 +1,45 @@
-# Limit Orders FAQ
+# Limit Orders Frequently Asked Questions
 
 {% hint style="info" %}
-Use the sidebar to quickly find the answers to your questions!
+Use the sidebar to find answers to your questions quickly!
 {% endhint %}
 
-## General Questions
+## General Concerns
 
-### Why was my order not executed?
+### Why was my order not carried out?
 
-Limit orders are executed when they reach their desired price, however, due to gas fluctuations, the actual execution price might vary from the price you specified on the interface. Usually, the execution price and the desired price should be almost identical, however, if you submitted a particularly small order (\~<1000$) the execution price might be slightly higher to account for fees.&#x20;
+Limit orders are executed when the price specified on the interface is met; however, due to gas fluctuations, the actual execution price may differ from the price specified on the interface. The execution price and the desired price should usually be nearly identical; however, if you submitted a particularly small order (1000$), the execution price may be slightly higher to account for fees.
 
-Therefore your order may not be executed because:
+As a result, your order may not be carried out because:
 
-* It wasn’t possible to fill the whole order at the desired price and amount due to price impact.
-* One of the tokens in the limit order has fee on transfer (see below).
+- Due to price impact, it was not possible to fill the entire order at the desired price and amount. One of the tokens in the limit order has a transaction fee (see below).
 
-**Before submitting an order, please consult the UI denoting the real execution price.**
+**Please consult the UI denoting the real execution price before submitting an order.**
 
 {% hint style="info" %}
-Please note: the order history table gets the data from Subgraph and can show slightly delayed information.
+Please keep in mind that the order history table receives data from Subgraph and may display slightly delayed information.
 {% endhint %}
 
-### Can I submit a limit order for tokens with fee on transfer?
+### Is it possible to place a limit order for tokens with a fee on transfer?
 
-**No.** The tokens with a fee on transfer should not be used with limit orders. Proceed at your own risk.
+**No.** Transfer fee tokens should not be used with limit orders. Proceed entirely at your own risk.
 
-### How do I set slippage while using limit orders?
+### How do I configure slippage when using limit orders?
 
-Slippage is not relevant in limit orders. You specify input amount (e.g. 1000 CAKE) and output amount (e.g. 20 BNB), Limit orders guarantee that you will receive no less than the specified output amount (20 BNB) for your input amount (1000 CAKE) if the price for the pair reaches the desired price. **Note that tokens with fee on transfer should not be used with limit orders** (read above)
+Limit orders do not allow for slippage. Limit orders guarantee that you will receive no less than the specified output amount (20 BNB) for your input amount (1000 zDEX) if the price of the pair reaches the desired price. **Please keep in mind that tokens with a fee on transfer should not be used with limit orders** (read above)
 
-### The real execution price shows "never executes". What's this?
+### The true execution price indicates that the order "never executes." What precisely is this?
 
-It basically means that you're trying to swap a very small amount of tokens therefore there are not enough tokens to be accounted for the gas fee. In general, you need to increase the amount of the "input" field to get rid of this error.&#x20;
+It basically means you're trying to swap a very small number of tokens, and there aren't enough tokens to cover the gas fee. Increase the size of the "input" field in general to fix this error.
 
-### Is there an expiration date for my limit orders?
+### Do my limit orders have an expiration date?
 
-Open orders will remain open indefinitely until they get executed or being cancelled by users. A customizable expiration date feature is planned for the near future.
+Orders that are open will remain open indefinitely until they are executed or cancelled by users. In the near future, a customizable expiration date feature is planned.
 
-### Why can’t I create limit orders below the market price?
+### Why am I unable to place limit orders below the market price?
 
-To sell below market price, you need **Stop Limit Orders**, not limit orders. Stop Limit Orders feature is coming soon.
+To sell below the market price, you must use **Stop Limit Orders** rather than limit orders. The Stop Limit Orders feature will be available soon.
 
-### I made an order and it is not shown in the order table or stuck at “pending” status.
+### I placed an order, but it isn't showing up in the order table or is stuck at "pending."
 
-The order history comes from the subgraph and therefore might show slightly delayed information. Usually, delays are no longer than a couple of minutes at worst. Please refer to the subgraph indicator at the bottom right corner of the order history table.
-
+Because the order history is derived from the subgraph, it may contain slightly delayed information. Delays are usually no more than a couple of minutes at most. Please see the subgraph indicator in the order history table's bottom right corner.

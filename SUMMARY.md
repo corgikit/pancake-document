@@ -38,14 +38,14 @@
   - [How to Use Farms](products/yield-farming/how-to-use-farms.md)
   - [Crosschain Farming](products/yield-farming/crosschain-farming/README.md)
     - [FAQ](products/yield-farming/crosschain-farming/faq.md)
-  - [bCAKE](products/yield-farming/bcake/README.md)
-    - [How to use bCAKE?](products/yield-farming/bcake/how-to-use-bcake.md)
-    - [FAQ](products/yield-farming/bcake/faq.md)
-- [🍯 Staking Pools - Stake CAKE](products/staking-pool/README.md)
-  - [New CAKE Staking Pool](products/coming-soon/new-cake-pool/README.md)
-    - [How to use the Flexible Staking option](products/coming-soon/new-cake-pool/flexible-staking.md)
-    - [How to use the Fixed-Term Staking option](products/coming-soon/new-cake-pool/fixed-term-staking.md)
-    - [CAKE Staking Pool FAQ](products/staking-pool/new-cake-pool/cake-staking-pool-faq.md)
+  - [bzDEX](products/yield-farming/bzDEX/README.md)
+    - [How to use bzDEX?](products/yield-farming/bzDEX/how-to-use-bzDEX.md)
+    - [FAQ](products/yield-farming/bzDEX/faq.md)
+- [🍯 Staking Pools - Stake zDEX](products/staking-pool/README.md)
+  - [New zDEX Staking Pool](products/coming-soon/new-zDEX-pool/README.md)
+    - [How to use the Flexible Staking option](products/coming-soon/new-zDEX-pool/flexible-staking.md)
+    - [How to use the Fixed-Term Staking option](products/coming-soon/new-zDEX-pool/fixed-term-staking.md)
+    - [zDEX Staking Pool FAQ](products/staking-pool/new-zDEX-pool/zDEX-staking-pool-faq.md)
   - [Other Staking Pools](products/staking-pool/staking-pool-guide/README.md)
     - [Staking Pool FAQ & Troubleshooting](products/staking-pool/staking-pool-guide/staking-pool-faq.md)
 - [🔄 StableSwap](products/stableswap/README.md)
@@ -66,25 +66,25 @@
   - [Teams](products/nft-profile-system/teams.md)
 - [🛍 IFO (Initial Farm Offering)](products/ifo-initial-farm-offering/README.md)
   - [How to Participate in an IFO](products/ifo-initial-farm-offering/ifo-guide.md)
-  - [iCAKE](products/ifo-initial-farm-offering/icake.md)
+  - [izDEX](products/ifo-initial-farm-offering/izDEX.md)
   - [Contract Details](products/ifo-initial-farm-offering/contract-details.md)
 - [📈 Analytics (Info)](products/info/README.md)
-  - [Analytics](products/info/pancakeswap-analytics.md)
+  - [Analytics](products/info/panzDEXswap-analytics.md)
 - [🗳 Voting](products/voting/README.md)
   - [How to Vote](products/voting/voting-guide/README.md)
     - [How to Vote with SafePal Wallet](products/voting/voting-guide/how-to-vote-with-safepal-wallet.md)
-  - [vCAKE](products/voting/vcake.md)
-- [🌐 ZexdexApp Mini-Program](products/pancakeswap-mini-program/README.md)
-  - [How to Use ZexdexApp Mini-Program?](products/pancakeswap-mini-program/how-to-use-pancakeswap-mini-program.md)
-  - [Mini-Program FAQ](products/pancakeswap-mini-program/mini-program-faq.md)
+  - [vzDEX](products/voting/vzDEX.md)
+- [🌐 ZexdexApp Mini-Program](products/panzDEXswap-mini-program/README.md)
+  - [How to Use ZexdexApp Mini-Program?](products/panzDEXswap-mini-program/how-to-use-panzDEXswap-mini-program.md)
+  - [Mini-Program FAQ](products/panzDEXswap-mini-program/mini-program-faq.md)
 - [🍳 Coming Soon!](products/coming-soon/README.md)
   - [Zap](products/coming-soon/zap.md)
 
 ## Tokenomics
 
-- [CAKE](tokenomics/cake/README.md)
-  - [CAKE Tokenomics](tokenomics/cake/cake-tokenomics.md)
-  - [Controlling CAKE supply](tokenomics/cake/controlling-cake-supply.md)
+- [zDEX](tokenomics/zDEX/README.md)
+  - [zDEX Tokenomics](tokenomics/zDEX/zDEX-tokenomics.md)
+  - [Controlling zDEX supply](tokenomics/zDEX/controlling-zDEX-supply.md)
 
 ## Developers <a href="#code" id="code"></a>
 
@@ -92,7 +92,7 @@
   - [Migrate Your Stakings](code/migration/migrate-your-stakings.md)
   - [MasterChef v2](code/migration/masterchef-v2/README.md)
     - [List of Farms](code/migration/masterchef-v2/list-of-farms.md)
-  - [CAKE Staking Pool](code/migration/cake-staking-pool.md)
+  - [zDEX Staking Pool](code/migration/zDEX-staking-pool.md)
 - [Contributing](code/contributing/README.md)
   - [Codebase Overview](code/contributing/codebase-overview.md)
 - [Bug Bounty](code/bug-bounty.md)
@@ -101,10 +101,10 @@
     - [Factory v2](code/smart-contracts/zexdex/factory-v2.md)
     - [Router v2](code/smart-contracts/zexdex/router-v2.md)
   - [Main Staking/Staking Pool/MasterChef Contract](code/smart-contracts/main-staking-masterchef-contract.md)
-  - [CAKE Staking Pool](code/smart-contracts/fixed-term-staking-cake-pool.md)
+  - [zDEX Staking Pool](code/smart-contracts/fixed-term-staking-zDEX-pool.md)
   - [Prediction V2](code/smart-contracts/prediction-v2.md)
   - [Lottery v2](code/smart-contracts/lottery-v2.md)
-  - [Auto CAKE Staking Pool (CakeVault)](code/smart-contracts/cakevault.md)
+  - [Auto zDEX Staking Pool (zDEXVault)](code/smart-contracts/zDEXvault.md)
 
 ## Hiring
 
@@ -121,8 +121,8 @@
 ## Reference
 
 - [Old Tokenomics](reference/old-tokenomics/README.md)
-  - [CAKE Tokenomics v1](reference/old-tokenomics/cake-tokenomics-v1.md)
-  - [Controlling CAKE supply v1](reference/old-tokenomics/cake-tokenomics-v1-controlling-cake-supply.md)
+  - [zDEX Tokenomics v1](reference/old-tokenomics/zDEX-tokenomics-v1.md)
+  - [Controlling zDEX supply v1](reference/old-tokenomics/zDEX-tokenomics-v1-controlling-zDEX-supply.md)
 - [How to Use Farms with BscScan](reference/how-to-use-farms-with-bscscan.md)
 
 ## Contract Governance <a href="#governance" id="governance"></a>

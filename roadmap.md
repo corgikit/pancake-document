@@ -25,9 +25,9 @@ Due to considerations of security and confidentiality, some items are not includ
 ### Ongoing/Recurring
 
 - Regular IFOs and cIFOs
-- Regular new Farms and Syrup Pools&#x20;
+- Regular new Farms and Staking Pools&#x20;
 - Farm Auctions\
-  [Recently upgraded to a new format](https://medium.com/pancakeswap/reinventing-recipe-new-updates-to-pancakeswap-farm-auctions-2ade3a0283b3?source=collection_home---4------3-----------------------)
+  [Recently upgraded to a new format](https://medium.com/panzDEXswap/reinventing-recipe-new-updates-to-panzDEXswap-farm-auctions-2ade3a0283b3?source=collection_home---4------3-----------------------)
 - UI/UX, Bug Fixes, Product Upgrades
 
 ### Cooking in Q4
@@ -56,25 +56,25 @@ Due to considerations of security and confidentiality, some items are not includ
 - Limit Orders
 - Charts & other trading features on-site
 - Migration to Exchange V2 (exchange, liquidity, farms)
-- Pancake Bridge
+- PanzDEX Bridge
 - Token Risks Scanning
 - Multichain Swap & Liquidity
 
 #### Earn
 
-- CAKE Staking
+- zDEX Staking
   - Fixed-term Staking
-  - CAKE Side Pool - Flexible CAKE staking on the side of locked staking
+  - zDEX Side Pool - Flexible zDEX staking on the side of locked staking
 - Fixed-Term Staking Benefits&#x20;
-  - iCAKE, IFO benefits
-  - vCAKE, weighted voting power
-  - bCAKE, farm yield booster
+  - izDEX, IFO benefits
+  - vzDEX, weighted voting power
+  - bzDEX, farm yield booster
   - Events with well-known projects
 - Farms
 - Crosschain Farming
-- Syrup Pools
-- Syrup Pool Farm Boosts
-- Auto-compounding CAKE-CAKE Syrup Pool
+- Staking Pools
+- Staking Pool Farm Boosts
+- Auto-compounding zDEX-zDEX Staking Pool
 - APR/APY Calculator v3
 - Harvest all function
 
@@ -82,7 +82,7 @@ Due to considerations of security and confidentiality, some items are not includ
 
 - Lottery v2
 - Prediction v0.2\
-  Duo currency with BNB and CAKE\
+  Duo currency with BNB and zDEX\
   with Chainlink Price Chart and Chainlink Keepers
 - Team Battle (Trading Comps as a Service)
 - Pottery\
@@ -94,16 +94,16 @@ Due to considerations of security and confidentiality, some items are not includ
 - NFT Market Phase 1 & 2(buy & sell whitelisted NFT collections)
 - Customizable User Profile
 - NFT drops
-- Pancake Squad generative NFT collection
+- PanzDEX Squad generative NFT collection
 
-#### Site Upgrades / CAKE / Other Products
+#### Site Upgrades / zDEX / Other Products
 
 - Mobile-first navigation & site overhaul
 - Analytics: Info site
-- IFO CAKE Pool & IFO 3.0
+- IFO zDEX Pool & IFO 3.0
 - IFO
   - Private Sales with NFT Utility
-  - cIFO, Private Sales with Pancake Profile points utility
+  - cIFO, Private Sales with PanzDEX Profile points utility
   - Token vesting
-  - iCAKE integration
+  - izDEX integration
 - PCS Mini-Program in Binance App

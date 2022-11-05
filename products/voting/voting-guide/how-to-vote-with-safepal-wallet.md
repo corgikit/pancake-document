@@ -19,4 +19,3 @@ You can use the SafePal wallet to vote on open issues in ZexdexApp. Follow the s
 4\. Click on **Injected** as the wallet. Your wallet will now be connected and you can now vote on ZexdexApp proposals.
 
 ![](../../../.gitbook/images/safepal-4.png)
-

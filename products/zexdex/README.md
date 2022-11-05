@@ -1,25 +1,27 @@
 # 🔄 Exchange
 
-![](../../.gitbook/images/pancakeswap-exchange-header.png)
+![](../../.gitbook/images/exchange-header.png)
 
-ZexdexApp is an Automated Market Maker (AMM), and the Exchange is at the heart of ZexdexApp. ZexdexApp is the leading AMM on the BNB Smart Chain, and as statistics tell, the most popular Decentralized Exchange (DEX) ever!
+ZexdexApp is an Automated Market Maker (AMM), and the Exchange is at its core. ZexdexApp is the most popular Decentralized Exchange (DEX) in history, and the leading AMM on the BNB Smart Chain!
 
-The ZexdexApp Exchange offers several features that support decentralized trading:
+The ZexdexApp Exchange provides several decentralized trading features, including:
 
 ### Swapping/Trading
 
-ZexdexApp lets users trade without the need to go through a Centralized Exchange. Everything you do on ZexdexApp is routed directly through your own wallet—no need to trust someone else with your coins!
+Users can use ZexdexApp to trade without going through a centralized exchange. Everything you do on ZexdexApp is routed directly through your own wallet—no need to entrust your coins to someone else!
 
 ### Liquidity Pools
 
-You can only swap tokens on ZexdexApp if there is enough liquidity for those tokens. If nobody has added much liquidity for the token or tokens you want to swap, it will be difficult, expensive, or impossible to do so.
+On ZexdexApp, you can only swap tokens if there is sufficient liquidity for those tokens. It will be difficult, expensive, or impossible to swap tokens if there hasn't been much liquidity added for the token or tokens you want to swap.
 
-Providing liquidity will get you LP Tokens, which will earn you rewards in the form of trading fees for making sure there's always liquidity for the exchange to use.
+Providing liquidity will earn you LP Tokens, which will earn you rewards in the form of trading fees for ensuring the exchange always has liquidity.
 
 ### Yield Farming
 
-Yield farming lets users that are providing liquidity earn CAKE rewards by locking their LP tokens into a smart contract. The incentive is to balance out the risk of [impermanent loss](https://academy.binance.com/en/articles/impermanent-loss-explained) that comes along with locking in your liquidity.
+**Coming Soon**
 
-### Initial Farm Offerings (IFOs)
+Users who provide liquidity can earn zDEX rewards by locking their LP tokens into a smart contract. The incentive is to mitigate the risk of [permanent loss](https://academy.binance.com/en/articles/permanent-loss-explained) associated with locking in your liquidity.
 
-An Initial Farm Offering is an event that lets users buy into a limited-time offer to purchase new tokens. The IFO price is usually very generous.
+### Launcher
+
+A Launcher is a one-time event that allows users to participate in a limited-time offer to purchase new tokens. The price is usually quite high.

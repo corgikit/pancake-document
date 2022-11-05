@@ -6,42 +6,44 @@ description: Common error messages. Use the sidebar ➡️to jump to the error y
 
 ![](../.gitbook/images/troubleshooting-header.png)
 
-Sometimes you may find yourself facing a problem that doesn't have a clear solution. These troubleshooting tips may help you solve problems you run into.
+You may occasionally encounter an issue for which there is no obvious answer. These troubleshooting suggestions may assist you in resolving issues.
 
 ## **Issues on the Exchange**
 
-### **INSUFFICIENT\_OUTPUT\_AMOUNT**
+### **INSUFFICIENT_OUTPUT_AMOUNT**
 
-> The transaction cannot succeed due to error: PancakeRouter: INSUFFICIENT\_OUTPUT\_AMOUNT. This is probably an issue with one of the tokens you are swapping.
+> The transaction cannot succeed due to error: ZexdexRouter: INSUFFICIENT_OUTPUT_AMOUNT. This is probably an issue with one of the tokens you are swapping.
 >
-> the transaction cannot succeed due to error: execution reverted: pancakerouter: insufficient\_output\_amount.
+> the transaction cannot succeed due to error: execution reverted: ZexdexRouter: insufficient_output_amount.
 
 You're trying to swap tokens, but your slippage tolerance is too low or liquidity is too low.
 
 {% tabs %}
 {% tab title="Solution" %}
+
 1. Refresh your page and try again later.
 2. Try trading a smaller amount at one time.
 3. Increase your slippage tolerance:
    1. Tap the settings icon on the liquidity page.
    2. Increase your slippage tolerance a little and try again. ![](<../.gitbook/images/image (9) (4) (2) (1) (1) (1) (1) (1) (1) (1) (3).png>)
 4. Lastly, try inputting an amount with fewer decimal places.
-{% endtab %}
 
+{% endtab %}
 {% tab title="Reason" %}
 **This usually happens when trading tokens with low liquidity.**
 
-That means there isn't enough of one of the tokens you're trying to swap in the Liquidity Pool: it's probably a small-cap token that few people are trading.
+That signals that one of the tokens you're attempting to swap doesn't have adequate liquidity in the Liquidity Pool: it's most likely a small-cap token with few traders.
 
-However, there's also the chance that you're trying to trade a scam token which cannot be sold. In this case, ZexdexApp isn't able to block a token or return funds.
+However, there is a chance that you are exchanging a fraudulent token that cannot be exchanged. In this case, ZexdexApp is unable to prohibit a token or reimburse money.
+
 {% endtab %}
 {% endtabs %}
 
-### **INSUFFICIENT\_A\_AMOUNT or INSUFFICIENT\_B\_AMOUNT**
+### **INSUFFICIENT_A_AMOUNT or INSUFFICIENT_B_AMOUNT**
 
-> Fail with error 'PancakeRouter: INSUFFICIENT\_A\_AMOUNT'\
+> Fail with error 'ZexdexRouter: INSUFFICIENT_A_AMOUNT'\
 > or\
-> Fail with error 'PancakeRouter: INSUFFICIENT\_B\_AMOUNT'
+> Fail with error 'ZexdexRouter: INSUFFICIENT_B_AMOUNT'
 
 You're trying to add/remove liquidity from a liquidity pool (LP), but there isn't enough of one of the two tokens in the pair.
 
@@ -58,26 +60,26 @@ Still doesn't work?
 {% endtab %}
 
 {% tab title="Reason" %}
-The error is caused by trying to add or remove liquidity for a liquidity pool (LP) with an insufficient amount of token A or token B (one of the tokens in the pair).
+The error occurs while attempting to add or withdraw liquidity from a liquidity pool (LP) with insufficient token A or token B. (one of the tokens in the pair).
 
-It might be the case that prices are updating too fast when and your slippage tolerance is too low.
+It is possible that prices are updating too quickly and your slippage tolerance is too low.
 
-![](https://lh5.googleusercontent.com/T1KMtz2ILDVHljGw1iLbIv0W1KVl7qXL8zU2nLFHkUvDb5oMw9mpUzzBwWmIBz15XDsxZ5w7wsaqAwCs\_pxdobz\_kY\_7BhcZhYtpqWuQGFs23DZq98-SVInlfsS07WzxFPLIYXHt)
+![](https://lh5.googleusercontent.com/T1KMtz2ILDVHljGw1iLbIv0W1KVl7qXL8zU2nLFHkUvDb5oMw9mpUzzBwWmIBz15XDsxZ5w7wsaqAwCs_pxdobz_kY_7BhcZhYtpqWuQGFs23DZq98-SVInlfsS07WzxFPLIYXHt)
 
-![](https://lh5.googleusercontent.com/7aspaCCvDjzxbJxngqwgeq737LB3OUNcAs592QqlEkyrAOTfKsrt\_FAwpEylaIJhff5ZcYlzB\_r0v1JZwfj3j8Ah6jlUbRoMrAqVfTb3cwDI7B1i5HJtZSQOsTPrv7l7SaclC3BV)
+![](https://lh5.googleusercontent.com/7aspaCCvDjzxbJxngqwgeq737LB3OUNcAs592QqlEkyrAOTfKsrt_FAwpEylaIJhff5ZcYlzB_r0v1JZwfj3j8Ah6jlUbRoMrAqVfTb3cwDI7B1i5HJtZSQOsTPrv7l7SaclC3BV)
 {% endtab %}
 
 {% tab title="Solution for nerds" %}
-OK, so you're really determined to fix this. We really don't recommend doing this unless you know what you're doing.
+So you're dead set on resolving this. We strongly advise against doing this unless you are confident in your abilities.
 
-There currently isn't a simple way to solve this issue from the ZexdexApp website: you'll need to interact with the contract directly. You can add liquidity directly via the Router contract, while setting amountAMin to a small amount, then withdrawing all liquidity.
+There is presently no easy method to remedy this problem through the ZexdexApp website: you must deal with the contract directly. You may immediately add liquidity via the Router contract by setting amountAMin to a tiny amount and then withdrawing all liquidity.
 
 #### **Approve the LP contract**
 
 Head to the contract of the LP token you're trying to approve.\
 For example, here's the ETH/WBNB pair: [https://bscscan.com/address/0x70d8929d04b60af4fb9b58713ebcf18765ade422](https://bscscan.com/address/0x70d8929d04b60af4fb9b58713ebcf18765ade422)
 
-1. Select **Write Contract**, then **Connect to Web3** and connect your wallet. ![](https://lh6.googleusercontent.com/-\_sNkO1gcOOJXkduDEUzbExKE2mNxBOR0f86Lpp3BBuPbIcmAHsfuvpF-hKqRn4oID5QzdGkk\_1dTHkPuCmE50vpNNZxEqoM5nPmE\_12k3-8Q8YYoRYqJ\_VGjxJ03YPRuVQ1O5ME)
+1. Select **Write Contract**, then **Connect to Web3** and connect your wallet. ![](https://lh6.googleusercontent.com/-_sNkO1gcOOJXkduDEUzbExKE2mNxBOR0f86Lpp3BBuPbIcmAHsfuvpF-hKqRn4oID5QzdGkk_1dTHkPuCmE50vpNNZxEqoM5nPmE_12k3-8Q8YYoRYqJ_VGjxJ03YPRuVQ1O5ME)
 2. In **section "1. approve",** approve the LP token for the router by entering
    1. spender (address): enter the contract address of the LP token you're trying to interact with
    2. value (uint256): -1
@@ -110,33 +112,33 @@ This can cause very high slippage, and can cause the user to lose some funds if 
 {% endtab %}
 {% endtabs %}
 
-### PancakeRouter: EXPIRED
+### ZexdexRouter: EXPIRED
 
-> The transaction cannot succeed due to error: PancakeRouter: EXPIRED. This is probably an issue with one of the tokens you are swapping.
+> The transaction cannot succeed due to error: ZexdexRouter: EXPIRED. This is probably an issue with one of the tokens you are swapping.
 
-Try again, but confirm (sign and broadcast) the transaction as soon as you generate it.
+Retry, but this time confirm (sign and broadcast) the transaction as soon as it is generated.
 
-This happened because you started making a transaction, but you didn't sign and broadcast it until it was past the deadline. That means you didn't hit "Confirm" quickly enough.
+This occurred because you began a transaction but did not sign or broadcast it until it was past the deadline. That indicates you didn't press "Confirm" fast enough.
 
-### Pancake: K
+### Zexdex: K
 
-> The transaction cannot succeed due to error: Pancake: K. This is probably an issue with one of the tokens you are swapping.
+> The transaction cannot succeed due to error: Zexdex: K. This is probably an issue with one of the tokens you are swapping.
 
-Try modifying the amount on “To” field. Therefore putting "(estimated)" symbol on “From”. Then initiate the swap immediately.
+Change the amount in the "To" field. As a result, the "(estimated)" sign is placed on "From." Then immediately begin the exchange.
 
-![](<../.gitbook/images/pancake-k-solution (2).png>)
+![](../.gitbook/images/zexdex-k-solution.png)
 
-This usually happen when you are trying to swap a token with its own fee.
+This commonly happens when you try to exchange a token with its own charge.
 
-### Pancake: TRANSFER\_FAILED
+### Zexdex: TRANSFER_FAILED
 
-> The transaction cannot succeed due to error: execution reverted: Pancake: TRANSFER\_FAILED.
+> The transaction cannot succeed due to error: execution reverted: Zexdex: TRANSFER_FAILED.
 
-Make sure you have 30% more tokens in your wallet than you intend to trade, or try to trade a lower amount. If you want to sell the maximum possible, try 70% or 69% instead of 100%.\
-Caused by the design of Restorative Rebase tokens like tDoge or tBTC.\
+Make sure you have 30% more tokens in your wallet than you want to trade, or trade less. If you want to sell the most, attempt 70% or 69% rather than 100%.
+Because of the design of Restorative Rebase tokens like as tDoge and tBTC.
 [Understand how restorative rebase tokens work](https://btcst.medium.com/stp-8-restorative-rebase-b4fbbdfd96c).
 
-Another possible cause of this issue is the malicious token issuer just suspended the trading for their token. Or they made selling action only possible for selected wallet addresses. Please always do your own research to avoid any potential fraud. If the token you are trying to swap but failed with this error code is coming from an airdrop, that is most likely a scam. Please do not perform any token approval or follow any links, your fund may be at risk if you try to do so.
+Another possibility is that the fraudulent token creator has simply ceased trade for their token. Or they limited the ability to sell to specific wallet addresses. To avoid any fraud, always always conduct your own research. If the token you're attempting to exchange but failing with this error code came from an airdrop, it's most likely a fraud. Please do not approve any tokens or click on any links, your fund may be at risk if you try to do so.
 
 ### Transaction cannot succeed
 
@@ -162,13 +164,13 @@ Please contact the project team of the token you're trying to swap. \*\*\*\* Thi
 {% endtab %}
 
 {% tab title="Reason" %}
-**This issue (while swapping) is caused by tokens which have hard-coded the V1 ZexdexApp router into their contract.**
+**This issue (while swapping) is caused by tokens which have hard-coded into their contract.**
 
-While this practice is ill-advised at best, the reason for these projects having done this appears to be due to their tokenomics, in which each purchase sends a % of the token to LPs.
+While this is an unwise practice at best, the reason these companies have done so appears to be owing to their tokenomics, in which each purchase distributes a percentage of the token to LPs.
 
-The projects affected will likely not work with the V2 router: they will most likely need to create new versions of their tokens pointing to our new router address, and migrate any existing token holders to their new token.
+The impacted projects will very likely not be able to use the V2 router: they will need to generate new versions of their tokens that link to our new router address, as well as convert any existing token holders to their new token.
 
-We recommend that any projects which created such tokens should also make efforts to prevent their users from adding them to V2 LP.
+We advise any projects that produced such tokens to make attempts to prevent their users from adding them to the latest LP.
 
 The up-to-date router address is [https://bscscan.com/address/0x10ED43C718714eb63d5aA57B78B54704E256024E](https://bscscan.com/address/0x10ED43C718714eb63d5aA57B78B54704E256024E)
 {% endtab %}
@@ -182,9 +184,10 @@ When trying to swap tokens, the transaction fails and this error message is disp
 
 {% tabs %}
 {% tab title="Solution" %}
+
 1. Attempt the transaction again with increased slippage allowance.
 2. If 1. does not resolve your problem, consider using another wallet such as SafePal for your transaction.
-{% endtab %}
+   {% endtab %}
 
 {% tab title="Reason" %}
 **This usually happens when trading tokens with insufficient slippage allowance on Trust Wallet.**
@@ -193,52 +196,55 @@ The exact details of the problem are still being investigated.
 {% endtab %}
 {% endtabs %}
 
-### **Execution reverted: TransferHelper: TRANSFER\_FROM\_FAILED.**
+### **Execution reverted: TransferHelper: TRANSFER_FROM_FAILED.**
 
-> The transaction cannot succeed due to error: execution reverted: TransferHelper: TRANSFER\_FROM\_FAILED.
+> The transaction cannot succeed due to error: execution reverted: TransferHelper: TRANSFER_FROM_FAILED.
 
 When trying to swap tokens, the transaction fails and this error message is displayed. This error has been reported across platforms.
 
 {% tabs %}
 {% tab title="Solution" %}
+
 1. Check to make sure you have sufficient funds available.
 2. Ensure you have given the contract allowance to spend the amount of funds you're attempting to trade with.
-{% endtab %}
+   {% endtab %}
 
 {% tab title="Reason" %}
 This error happens when trading tokens with insufficient allowance, or when a wallet has insufficient funds.\
+
 If you're trading tokens with Restorative Rebase like tau assets tDoge or tBTC, make sure you understand how they work first with this [guide to Rebase tokens](https://btcst.medium.com/stp-8-restorative-rebase-b4fbbdfd96c).
 {% endtab %}
+
 {% endtabs %}
 
-## **Issues with Syrup Pools**
+## **Issues with Staking Pools**
 
 ### BEP20: burn amount exceeds balance
 
 > Fail with error 'BEP20: burn amount exceeds balance'
 
-You don't have enough SYRUP in your wallet to unstake from the CAKE-CAKE pool.
+You don't have enough sDEX in your wallet to unstake from the zDEX-zDEX pool.
 
-**Get at least as much SYRUP as the amount of CAKE that you’re trying to unstake.**
+**Get at least as much sDEX as the amount of zDEX that you’re trying to unstake.**
 
-1. Buy SYRUP on the exchange. If you want to unstake 100 CAKE, you need at least 100 SYRUP.
+1. Buy sDEX on the exchange. If you want to unstake 100 zDEX, you need at least 100 sDEX.
 2. Try unstaking again.
 
 If that still fails, you can perform an “emergencyWithdraw” from the contract directly to unstake your staked tokens.
 
 1. Go to: [https://bscscan.com/address/0x73feaa1eE314F8c655E354234017bE2193C9E24E#writeContract](https://bscscan.com/address/0x73feaa1eE314F8c655E354234017bE2193C9E24E#writeContract)
-2. Click **“Connect to Web3”** and connect your wallet. ![](https://lh6.googleusercontent.com/-\_sNkO1gcOOJXkduDEUzbExKE2mNxBOR0f86Lpp3BBuPbIcmAHsfuvpF-hKqRn4oID5QzdGkk\_1dTHkPuCmE50vpNNZxEqoM5nPmE\_12k3-8Q8YYoRYqJ\_VGjxJ03YPRuVQ1O5ME)
+2. Click **“Connect to Web3”** and connect your wallet. ![](https://lh6.googleusercontent.com/-_sNkO1gcOOJXkduDEUzbExKE2mNxBOR0f86Lpp3BBuPbIcmAHsfuvpF-hKqRn4oID5QzdGkk_1dTHkPuCmE50vpNNZxEqoM5nPmE_12k3-8Q8YYoRYqJ_VGjxJ03YPRuVQ1O5ME)
 3. In section **“4. emergencyWithdraw”**, enter "0" and click “Write”.
 
-This will unstake your staked tokens and lose any uncollected CAKE yield.
+This will unstake your staked tokens and lose any uncollected zDEX yield.
 
 {% hint style="warning" %}
 **This will lose any yield that you haven’t harvested yet.**
 {% endhint %}
 
-To stop this happening again, **don’t sell your SYRUP.** You still need it to unstake from the “Stake CAKE Earn CAKE” pool.
+To stop this happening again, **don’t sell your sDEX.** You still need it to unstake from the “Stake zDEX Earn zDEX” pool.
 
-This error has happened because you have sold or transferred SYRUP tokens. SYRUP is minted in a 1:1 ratio to CAKE when you stake in the CAKE-CAKE Syrup Pool. SYRUP must be burned at a 1:1 ratio to CAKE when calling leaveStaking (unstaking your CAKE from the pool), so if you don't have enough, you can't unstake from the pool.
+This error has happened because you have sold or transferred sDEX tokens. sDEX is minted in a 1:1 ratio to zDEX when you stake in the zDEX-zDEX Staking Pool. sDEX must be burned at a 1:1 ratio to zDEX when calling leaveStaking (unstaking your zDEX from the pool), so if you don't have enough, you can't unstake from the pool.
 
 {% embed url="https://dashboard.tenderly.co/tx/binance/0x754e18ceea82acac256b49c2b7a81260f7f86dd5e56ee2e3cc1b6ac864c29a8e" %}
 
@@ -272,10 +278,11 @@ Your wallet estimates that the gas limit is too low, so the function call runs o
 
 {% tabs %}
 {% tab title="Solution" %}
+
 1. Use Unrekt.net to revoke approval for the smart contract you're trying to interact with
 2. Approve the contract again, without setting a limit on spend allowance
 3. Try interacting with the contract again.
-{% endtab %}
+   {% endtab %}
 
 {% tab title="Reason" %}
 This happens when you set a limit on your spend allowance when you first approved the contract, then try to swap more than the limit.
@@ -286,20 +293,20 @@ This happens when you set a limit on your spend allowance when you first approve
 
 > Fail with error 'BEP20: transfer amount exceeds balance'
 
-You're probably trying to unstake from a Syrup Pool with low rewards in it. Solution below.
+You're probably trying to unstake from a Staking Pool with low rewards in it. Solution below.
 
 If not, you may be trying to send tokens that you don't have in your wallet (for example, trying to send a token that is already assigned to a pending transaction). In this case, just make sure you have the tokens you're trying to use.
 
 {% tabs %}
 {% tab title="Solution" %}
-Firstly,[ let the team know](../contact-us/telegram.md) which pool you're trying to unstake from, so they can top up the rewards. If you're in a hurry to unstake and you don't mind losing your pending yield, try an emergencyWithdraw:
+Firstly, [let the team know](../contact-us/socials-communities.md) which pool you're trying to unstake from, so they can top up the rewards. If you're in a hurry to unstake and you don't mind losing your pending yield, try an emergencyWithdraw:
 
 You can perform an “emergencyWithdraw” from the contract directly to unstake your staked tokens.
 
-1. Find the contract address of the Syrup Pool you're trying to unstake from. You can find it in your wallet's transaction log.
+1. Find the contract address of the Staking Pool you're trying to unstake from. You can find it in your wallet's transaction log.
 2. Go to [https://bscscan.com/](https://bscscan.com/address/0x73feaa1eE314F8c655E354234017bE2193C9E24E#writeContract) and in the search bar, enter the contract address.
 3. Select **Write Contract.**
-4. Click **“Connect to Web3”** and connect your wallet.![](https://lh6.googleusercontent.com/-\_sNkO1gcOOJXkduDEUzbExKE2mNxBOR0f86Lpp3BBuPbIcmAHsfuvpF-hKqRn4oID5QzdGkk\_1dTHkPuCmE50vpNNZxEqoM5nPmE\_12k3-8Q8YYoRYqJ\_VGjxJ03YPRuVQ1O5ME)
+4. Click **“Connect to Web3”** and connect your wallet.![](https://lh6.googleusercontent.com/-_sNkO1gcOOJXkduDEUzbExKE2mNxBOR0f86Lpp3BBuPbIcmAHsfuvpF-hKqRn4oID5QzdGkk_1dTHkPuCmE50vpNNZxEqoM5nPmE_12k3-8Q8YYoRYqJ_VGjxJ03YPRuVQ1O5ME)
 5. In section **“3. emergencyWithdraw”,** and click “Write”.
 
 This will unstake your staked tokens and lose any uncollected yield.
@@ -310,13 +317,13 @@ This will unstake your staked tokens and lose any uncollected yield.
 {% endtab %}
 
 {% tab title="Reason" %}
-This error tends to appear when you're trying to unstake from an old Syrup Pool, but there aren't enough rewards in the pool left for you to harvest when withdrawing. This causes the transaction to fail.
+This error tends to appear when you're trying to unstake from an old Staking Pool, but there aren't enough rewards in the pool left for you to harvest when withdrawing. This causes the transaction to fail.
 {% endtab %}
 {% endtabs %}
 
-## **Issues with Prediction**
+## **Issues with Zex Binary Option**
 
-Check [prediction-troubleshooting.md](../products/prediction/prediction-troubleshooting.md "mention")
+Check [zbo-troubleshooting.md](../products/zex-binary-option/zbo-troubleshooting.md "mention")
 
 ## **Other issues**
 
@@ -329,7 +336,7 @@ This happens when you try to connect via a browser extension like MetaMask or Bi
 
 {% tabs %}
 {% tab title="Solution" %}
-Install the official browser extension to connect, or read our guide on [how to connect a wallet to ZexdexApp](https://docs.zexdex.app/get-started/connection-guide).
+Install the official browser extension to connect, or read our guide on [how to connect a wallet to ZexdexApp](../get-started/connection-guide).
 {% endtab %}
 {% endtabs %}
 
@@ -337,7 +344,7 @@ Install the official browser extension to connect, or read our guide on [how to 
 
 Switch your chain to BNB Smart Chain. Check your wallet's documentation for a guide if you need help.
 
-### Already processing eth\_requestAccounts. Please wait.
+### Already processing eth_requestAccounts. Please wait.
 
 Make sure you are signed in to your wallet app and it's connected to BNB Smart Chain.
 
@@ -346,8 +353,8 @@ Make sure you are signed in to your wallet app and it's connected to BNB Smart C
 To trade SAFEMOON, you must click on the settings icon and **set your slippage tolerance to 12% or more.**\
 This is because **SafeMoon taxes a 10% fee on each transaction**:
 
-* 5% fee = redistributed to all existing holders
-* 5% fee = used to add liquidity
+- 5% fee = redistributed to all existing holders
+- 5% fee = used to add liquidity
 
 This is also why you might not receive as much of the token as you expect when you purchase.\
 Read more on [How to Buy Safe Moon](https://community.trustwallet.com/t/how-to-buy-safemoon/155742).
@@ -378,24 +385,27 @@ Cause unclear. Try these steps before trying again:
 
 ## **Issues with Profile**
 
-### Oops! We couldn't find any Pancake Collectibles in your wallet.
+### Oops! We couldn't find any Zexdex NFT Profiles in your wallet.
 
-We're investigating the logic behind this issue. Meanwhile please try the workaround.
+We're looking into the reasoning behind this problem. In the meanwhile, please try the workaround.
 
 {% tabs %}
 {% tab title="Workaround 1" %}
-1. Go to “Collectible” page, then come back to profile page.\
-   If you can’t find the link, go to [https://zexdex.app/collectibles](https://zexdex.app/collectibles) directly.
+
+1. Go to "NFT Marketplaces" page, then come back to profile page.\
+   If you can’t find the link, go to [https://zexdex.app/nftmarketplaces/](https://zexdex.app/nftmarketplaces/) directly.
 2. Retry profile creation.
+
 {% endtab %}
 
 {% tab title="Workaround 2" %}
 Change the environment.
 
-* Clear the cache and retry.
-* Retry on different browser.
-* Retry on different wallet apps.
-* Retry on the different network (switch between Wi-Fi and cellular)
+- Clear the cache and retry.
+- Retry on different browser.
+- Retry on different wallet apps.
+- Retry on the different network (switch between Wi-Fi and cellular)
+
 {% endtab %}
 {% endtabs %}
 
@@ -409,11 +419,12 @@ There are two possible causes.
 {% tabs %}
 {% tab title="Solution 1" %}
 Root cause: You have multiple wallets installed on the browser.\
-\
+
 It may make a conflict between wallets. This is out of ZexdexApp's control and we can do nothing.
 
 1. Have only single wallet installed on browser, remove the others.
 2. Reconnect the wallet and retry setting username again.
+
 {% endtab %}
 
 {% tab title="Solution 2" %}
@@ -424,5 +435,6 @@ You have to retry.
 1. Delete whatever has been entered in the text field completely.
 2. Re-type username, then please wait for seconds.
 3. If it doesn’t work, reload the page and retry again.
+
 {% endtab %}
 {% endtabs %}

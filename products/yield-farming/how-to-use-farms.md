@@ -6,12 +6,12 @@ description: Yield Farming on ZexdexApp is easy!
 
 ![](../../.gitbook/images/how-to-yield-farms-header.png)
 
-Yield Farming in Farms is a great way to earn CAKE rewards on ZexdexApp.
+Yield Farming in Farms is a great way to earn zDEX rewards on ZexdexApp.
 
-Unlike Syrup Pools, Farms require you to stake **two tokens** to get LP Tokens, which you then stake in the Farm to earn rewards. This lets you earn CAKE while still keeping a position in your other tokens!
+Unlike Staking Pools, Farms require you to stake **two tokens** to get LP Tokens, which you then stake in the Farm to earn rewards. This lets you earn zDEX while still keeping a position in your other tokens!
 
 {% hint style="warning" %}
-Yield farming can give better rewards than Syrup Pools, but it comes with a risk of **Impermanent Loss**. It’s not as scary as it sounds, but it is worth learning about the concept before you get started.
+Yield farming can give better rewards than Staking Pools, but it comes with a risk of **Impermanent Loss**. It’s not as scary as it sounds, but it is worth learning about the concept before you get started.
 
 Check out this great [article about Impermanent Loss ](https://academy.binance.com/en/articles/impermanent-loss-explained)from Binance Academy to learn more.
 {% endhint %}
@@ -20,9 +20,9 @@ Check out this great [article about Impermanent Loss ](https://academy.binance.c
 
 Yield farming takes a little work to get set up.
 
-You’re going to need some "LP Tokens" to enter into a Farm with. Farms can only accept their own exact LP Token; for example, the CAKE-BNB Farm will only accept CAKE-BNB LP Tokens.
+You’re going to need some "LP Tokens" to enter into a Farm with. Farms can only accept their own exact LP Token; for example, the zDEX-BNB Farm will only accept zDEX-BNB LP Tokens.
 
-To get the exact LP Token, you'll need to provide liquidity for that trading pair. So to get CAKE-BNB LP Tokens, you'll first have to provide liquidity for the CAKE-BNB pair.
+To get the exact LP Token, you'll need to provide liquidity for that trading pair. So to get zDEX-BNB LP Tokens, you'll first have to provide liquidity for the zDEX-BNB pair.
 
 It may sound intimidating, but it's not too complicated. Let's go through step by step.
 
@@ -34,7 +34,7 @@ Before you proceed, you'll want to choose a Farm that's right for you. [Visit th
 
 You can choose another sorting option if you like, such as by **APR** for the Farms with the highest reward rate currently.
 
-When you find a Farm that you'd like to use, note down the trading pair, e.g. BNB-CAKE in case you need it later.
+When you find a Farm that you'd like to use, note down the trading pair, e.g. BNB-zDEX in case you need it later.
 
 ### Providing liquidity to get LP Tokens
 
@@ -106,26 +106,26 @@ You should now only see the pairs you have LP Tokens in on the list, making it e
 
 ## Collecting your farming rewards
 
-Farming will bring you CAKE rewards over time. You can collect these rewards and use them to get more LP Tokens, stake them in Syrup Pools, use them to play Lottery, or anything else you’d like.
+Farming will bring you zDEX rewards over time. You can collect these rewards and use them to get more LP Tokens, stake them in Staking Pools, use them to play Lottery, or anything else you’d like.
 
 ### Returning to your Farm to Harvest
 
-You can harvest your Farm and Syrup Pool rewards together from the Home page. If you'd like to collect your farming rewards only, follow along.
+You can harvest your Farm and Staking Pool rewards together from the Home page. If you'd like to collect your farming rewards only, follow along.
 
-To collect your rewards, you’ll need to visit your chosen Farm and collect the CAKE waiting for you.
+To collect your rewards, you’ll need to visit your chosen Farm and collect the zDEX waiting for you.
 
 1 - Return to the Farms page [here](https://zexdex.app/farms).
 
-2 - Find the Farm you staked your LP Tokens in, and click the row to view details. You should see an estimate of your rewards under “CAKE earned”.
+2 - Find the Farm you staked your LP Tokens in, and click the row to view details. You should see an estimate of your rewards under “zDEX earned”.
 
 ![](<../../.gitbook/images/image (138).png>)
 
-3 - Click the **Harvest** button and confirm the action in your wallet. After a short wait, the CAKE will be claimed to your wallet for you to use as you like.
+3 - Click the **Harvest** button and confirm the action in your wallet. After a short wait, the zDEX will be claimed to your wallet for you to use as you like.
 
 {% hint style="info" %}
 When you are farming on a different blockchain other than the BNB chain. You will need to always switch to BNB Smart Chain to harvest your farming rewards.
 
-If your wallet doesn't support chain switching. Staking or unstaking LP tokens will always harvest your CAKE. Please note the harvested CAKE will be distributed on BNB Smart Chain.
+If your wallet doesn't support chain switching. Staking or unstaking LP tokens will always harvest your zDEX. Please note the harvested zDEX will be distributed on BNB Smart Chain.
 
 ![](<../../.gitbook/images/image (136).png>)
 {% endhint %}
@@ -140,6 +140,6 @@ You can see this fee in your wallet when confirming after clicking **Harvest**.
 
 This shows the fee for harvesting as it appears in the MetaMask wallet. Different wallets will show the information a little differently. Consider leaving your rewards to grow for a while so you pay fees less often.
 
-And that's all there is to it! You may also want to look at [how to use ZexdexApp Syrup Pools](https://docs.zexdex.app/get-started/syrup-pool-guide) to earn rewards.
+And that's all there is to it! You may also want to look at [how to use ZexdexApp Staking Pools](https://docs.zexdex.app/get-started/staking-pool-guide) to earn rewards.
 
 Happy farming!
